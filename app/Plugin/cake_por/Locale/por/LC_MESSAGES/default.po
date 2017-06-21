@@ -1,0 +1,3495 @@
+# translation of default.po to
+# Portuguese translation of CakePHP Application
+# Copyright 2008 Gabriel Gilini <gabriel@souagil.com.br>
+# Copyright 2014 Felipe V. Rigo <cakephp@felipevr.eti.br>
+# Generated from files:
+#  Revision: 7296 /app/webroot/test.php
+#  Revision: 7296 /cake/console/libs/templates/skel/webroot/test.php
+#  Revision: 7118 /cake/console/error.php
+#  Revision: 7118 /cake/libs/view/errors/error404.ctp
+#  Revision: 7118 /cake/console/libs/acl.php
+#  Revision: 7125 /cake/console/libs/bake.php
+#  Revision: 7118 /cake/console/libs/i18n.php
+#  Revision: 7118 /cake/console/libs/api.php
+#  Revision: 7296 /cake/libs/folder.php
+#  Revision: 7118 /cake/console/libs/tasks/plugin.php
+#  Revision: 7296 /cake/console/libs/schema.php
+#  Revision: 7296 /cake/console/libs/shell.php
+#  Revision: 7296 /cake/console/libs/tasks/controller.php
+#  Revision: 7296 /cake/console/libs/tasks/model.php
+#  Revision: 7296 /cake/console/libs/tasks/project.php
+#  Revision: 7118 /cake/console/libs/tasks/test.php
+#  Revision: 7296 /cake/console/libs/tasks/view.php
+#  Revision: 7118 /cake/console/libs/templates/skel/views/layouts/default.ctp
+#  Revision: 7118 /cake/libs/view/layouts/default.ctp
+#  Revision: 7118 /cake/tests/test_app/views/layouts/default.ctp
+#  Revision: 7296 /cake/libs/cache.php
+#  Revision: 7296 /cake/libs/class_registry.php
+#  Revision: 7296 /cake/libs/configure.php
+#  Revision: 7296 /cake/libs/debugger.php
+#  Revision: 7296 /cake/libs/error.php
+#  Revision: 6311 /cake/libs/view/errors/missing_controller.ctp
+#  Revision: 6311 /cake/libs/view/errors/missing_table.ctp
+#  Revision: 6311 /cake/libs/view/errors/missing_view.ctp
+#  Revision: 6311 /cake/libs/view/errors/missing_layout.ctp
+#  Revision: 6311 /cake/libs/view/errors/missing_connection.ctp
+#  Revision: 6311 /cake/libs/view/errors/missing_scaffolddb.ctp
+#  Revision: 6311 /cake/libs/view/errors/missing_helper_file.ctp
+#  Revision: 6311 /cake/libs/view/errors/missing_helper_class.ctp
+#  Revision: 6311 /cake/libs/view/errors/missing_component_file.ctp
+#  Revision: 6311 /cake/libs/view/errors/missing_component_class.ctp
+#  Revision: 6311 /cake/libs/view/errors/missing_model.ctp
+#  Revision: 7296 /cake/libs/http_socket.php
+#  Revision: 6311 /cake/libs/overloadable_php4.php
+#  Revision: 6311 /cake/libs/overloadable_php5.php
+#  Revision: 7296 /cake/libs/security.php
+#  Revision: 7296 /cake/libs/session.php
+#  Revision: 7296 /cake/libs/validation.php
+#  Revision: 7296 /cake/libs/cache/file.php
+#  Revision: 7296 /cake/libs/controller/controller.php
+#  Revision: 7118 /cake/libs/controller/components/auth.php
+#  Revision: 7296 /cake/libs/controller/scaffold.php
+#  Revision: 7296 /cake/libs/controller/components/acl.php
+#  Revision: 7118 /cake/libs/controller/components/security.php
+#  Revision: 6311 /cake/libs/model/connection_manager.php
+#  Revision: 7296 /cake/libs/model/model.php
+#  Revision: 7296 /cake/libs/model/behaviors/containable.php
+#  Revision: 7296 /cake/libs/model/behaviors/tree.php
+#  Revision: 7296 /cake/libs/model/datasources/dbo_source.php
+#  Revision: 7296 /cake/libs/model/datasources/dbo/dbo_oracle.php
+#  Revision: 7296 /cake/libs/model/datasources/dbo/dbo_mysql.php
+#  Revision: 7296 /cake/libs/view/helper.php
+#  Revision: 7296 /cake/libs/view/view.php
+#  Revision: 6311 /cake/libs/view/elements/dump.ctp
+#  Revision: 6311 /cake/libs/view/errors/missing_action.ctp
+#  Revision: 6311 /cake/libs/view/errors/private_action.ctp
+#  Revision: 6311 /cake/libs/view/errors/scaffold_error.ctp
+#  Revision: 7296 /cake/libs/view/helpers/form.php
+#  Revision: 7296 /cake/libs/view/scaffolds/edit.ctp
+#  Revision: 7296 /cake/libs/view/scaffolds/index.ctp
+#  Revision: 7296 /cake/libs/view/scaffolds/view.ctp
+#  Revision: 7296 /cake/libs/view/helpers/session.php
+#  Revision: 7296 /cake/libs/view/helpers/text.php
+#  Revision: 7118 /cake/libs/view/pages/home.ctp
+#  Revision: 7296 /cake/tests/test_app/views/posts/test_nocache_tags.ctp
+#  Revision: 7296 /cake/tests/cases/libs/file.test.php
+#  Revision: 7296 /cake/tests/cases/libs/i18n.test.php
+msgid ""
+msgstr ""
+"Project-Id-Version: CakePHP 2.5.x\n"
+"POT-Creation-Date: 2014-05-12 02:50+0200\n"
+"PO-Revision-Date: 2014-05-15 18:51-0400\n"
+"Last-Translator: Felipe V. Rigo <dev@felipevr.eti.br>\n"
+"Language-Team: CakePHP I18N & I10N Team <i10n.cakephp@gmail.com>\n"
+"Language: por\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: View/Layouts/default.ctp:19 View/Layouts/error.ctp:19
+msgid "CakePHP: the rapid development php framework"
+msgstr "CakePHP: o framework php de desenvolvimento rápido"
+
+#: View/Pages/home.ctp:16
+msgid "Release Notes for CakePHP %s."
+msgstr "Notas de Release para o CakePHP %s."
+
+#: View/Pages/home.ctp:18
+msgid "Read the changelog"
+msgstr "Leia o changelog"
+
+#: View/Pages/home.ctp:29
+msgid "URL rewriting is not properly configured on your server."
+msgstr "A reescrita de URL não está configurada propriamente no seu servidor."
+
+#: View/Pages/home.ctp:40
+msgid "Your version of PHP is 5.2.8 or higher."
+msgstr "Sua versão do PHP é 5.2.8 ou superior."
+
+#: View/Pages/home.ctp:44
+msgid ""
+"Your version of PHP is too low. You need PHP 5.2.8 or higher to use CakePHP."
+msgstr ""
+"Sua versão do PHP é muito inferior. Você precisa do PHP 5.2.8 ou superior "
+"para usar o CakePHP."
+
+#: View/Pages/home.ctp:53
+msgid "Your tmp directory is writable."
+msgstr "Seu diretório tmp está com permissão de escrita"
+
+#: View/Pages/home.ctp:57
+msgid "Your tmp directory is NOT writable."
+msgstr "Seu diretório tmp NÃO está com permissão de escrita"
+
+#: View/Pages/home.ctp:67
+#, fuzzy
+msgid "The %s is being used for core caching. To change the config edit %s"
+msgstr ""
+"O %s está sendo usado para cache. Para mudar as configurações edite APP/"
+"config/core.php"
+
+#: View/Pages/home.ctp:71
+#, fuzzy
+msgid "Your cache is NOT working. Please check the settings in %s"
+msgstr ""
+"Seu cache NÃO está funcionando. Por favor verifique as configurações em APP/"
+"config/core.php"
+
+#: View/Pages/home.ctp:81
+msgid "Your database configuration file is present."
+msgstr "Seu arquivo de configuração do banco de dados está presente."
+
+#: View/Pages/home.ctp:86
+msgid "Your database configuration file is NOT present."
+msgstr "Seu arquivo de configuração do banco de dados NÃO está presente."
+
+#: View/Pages/home.ctp:88
+#, fuzzy
+msgid "Rename %s to %s"
+msgstr "Criado: %s em %s"
+
+#: View/Pages/home.ctp:113
+#, fuzzy
+msgid "CakePHP is able to connect to the database."
+msgstr "O Cake está apto a conectar ao banco de dados"
+
+#: View/Pages/home.ctp:117
+#, fuzzy
+msgid "CakePHP is NOT able to connect to the database."
+msgstr "O Cake NÃO está apto a conectar ao banco de dados"
+
+#: View/Pages/home.ctp:129
+msgid "PCRE has not been compiled with Unicode support."
+msgstr ""
+
+#: View/Pages/home.ctp:131
+msgid ""
+"Recompile PCRE with Unicode support by adding <code>--enable-unicode-"
+"properties</code> when configuring"
+msgstr ""
+
+#: View/Pages/home.ctp:140
+msgid "DebugKit plugin is present"
+msgstr "O plugin DebugKit está presente"
+
+#: View/Pages/home.ctp:144
+msgid ""
+"DebugKit is not installed. It will help you inspect and debug different "
+"aspects of your application."
+msgstr ""
+"O DebugKit não está instalado. Ele irá ajudar a você a inspecionar e debugar "
+"diferentes aspectos da sua aplicação."
+
+#: View/Pages/home.ctp:146
+msgid "You can install it from %s"
+msgstr "Você pode instala-lo a partir de %s"
+
+#: View/Pages/home.ctp:152
+msgid "Editing this Page"
+msgstr "Editando esta página"
+
+#: View/Pages/home.ctp:155
+#, fuzzy
+msgid ""
+"To change the content of this page, edit: %s.<br />\n"
+"To change its layout, edit: %s.<br />\n"
+"You can also add some CSS styles for your pages at: %s."
+msgstr ""
+"Para alterar o conteúdo desta página, crie: APP/views/pages/home.ctp.<br />\n"
+"Para alterar seu layout, crie: APP/views/layouts/default.ctp.<br />\n"
+"Você também pode adicionar estilos CSS para suas páginas em: APP/webroot/css."
+
+#: View/Pages/home.ctp:162
+msgid "Getting Started"
+msgstr "Primeiros Passos"
+
+#: View/Pages/home.ctp:166
+#, fuzzy
+msgid "New"
+msgstr "Adicionar"
+
+#: View/Pages/home.ctp:166
+#, fuzzy
+msgid "CakePHP 2.0 Docs"
+msgstr "CakePHP 1.2 Docs"
+
+#: View/Pages/home.ctp:175
+msgid "The 15 min Blog Tutorial"
+msgstr "O tutorial do Blog de 15 minutos"
+
+#: View/Pages/home.ctp:182
+msgid "Official Plugins"
+msgstr "Plugins Oficiais"
+
+#: View/Pages/home.ctp:187
+msgid ""
+"provides a debugging toolbar and enhanced debugging tools for CakePHP "
+"applications."
+msgstr ""
+
+#: View/Pages/home.ctp:191
+msgid ""
+"contains various localized validation classes and translations for specific "
+"countries"
+msgstr ""
+
+#: View/Pages/home.ctp:196
+#, fuzzy
+msgid "More about CakePHP"
+msgstr "Mais sobre Cake"
+
+#: View/Pages/home.ctp:198
+msgid ""
+"CakePHP is a rapid development framework for PHP which uses commonly known "
+"design patterns like Active Record, Association Data Mapping, Front "
+"Controller and MVC."
+msgstr ""
+"CakePHP é um framework de desenvolvimento ágil para PHP que usa padrões de "
+"projeto comumente conhecidos como Active Record, Association Data Mapping, "
+"Front Controller e MVC."
+
+#: View/Pages/home.ctp:201
+msgid ""
+"Our primary goal is to provide a structured framework that enables PHP users "
+"at all levels to rapidly develop robust web applications, without any loss "
+"to flexibility."
+msgstr ""
+"Nosso objetivo principal é prover um framework estruturado que possibilite a "
+"usuários de PHP de todos os níveis a desenvolver aplicações web robustas "
+"rapidamente, sem nenhuma perda para flexibilidade."
+
+#: View/Pages/home.ctp:206
+msgid "The Rapid Development Framework"
+msgstr "O Framework de Desenvolvimento Ágil"
+
+#: View/Pages/home.ctp:207
+msgid "CakePHP Documentation"
+msgstr "Documentação CakePHP"
+
+#: View/Pages/home.ctp:208
+msgid "Your Rapid Development Cookbook"
+msgstr "Seu livro de receitas de desenvolvimento rápido"
+
+#: View/Pages/home.ctp:209
+msgid "CakePHP API"
+msgstr "API CakePHP"
+
+#: View/Pages/home.ctp:210
+#, fuzzy
+msgid "Quick API Reference"
+msgstr "Referência Rápida"
+
+#: View/Pages/home.ctp:211
+msgid "The Bakery"
+msgstr "The Bakery"
+
+#: View/Pages/home.ctp:212
+msgid "Everything CakePHP"
+msgstr "Tudo para CakePHP"
+
+#: View/Pages/home.ctp:213
+#, fuzzy
+msgid "CakePHP Plugins"
+msgstr "API CakePHP"
+
+#: View/Pages/home.ctp:214
+msgid "A comprehensive list of all CakePHP plugins created by the community"
+msgstr ""
+
+#: View/Pages/home.ctp:215
+#, fuzzy
+msgid "CakePHP Community Center"
+msgstr "CakePHP Code"
+
+#: View/Pages/home.ctp:216
+msgid "Everything related to the CakePHP community in one place"
+msgstr ""
+
+#: View/Pages/home.ctp:217
+msgid "CakePHP Google Group"
+msgstr "CakePHP Google Group"
+
+#: View/Pages/home.ctp:218
+msgid "Community mailing list"
+msgstr "Grupo de discussão da comunidade"
+
+#: View/Pages/home.ctp:220
+msgid "Live chat about CakePHP"
+msgstr "Canal de IRC do CakePHP"
+
+#: View/Pages/home.ctp:221
+msgid "CakePHP Code"
+msgstr "CakePHP Code"
+
+#: View/Pages/home.ctp:222
+msgid "Find the CakePHP code on GitHub and contribute to the framework"
+msgstr ""
+
+#: View/Pages/home.ctp:223;224
+#, fuzzy
+msgid "CakePHP Issues"
+msgstr "API CakePHP"
+
+#: View/Pages/home.ctp:225;226
+#, fuzzy
+msgid "CakePHP Roadmaps"
+msgstr "CakePHP Code"
+
+#: View/Pages/home.ctp:227
+msgid "Training"
+msgstr "Treinamento"
+
+#: View/Pages/home.ctp:228
+msgid "Join a live session and get skilled with the framework"
+msgstr ""
+
+#: View/Pages/home.ctp:229
+#, fuzzy
+msgid "CakeFest"
+msgstr "CakeForge"
+
+#: View/Pages/home.ctp:230
+msgid "Don't miss our annual CakePHP conference"
+msgstr ""
+
+#: View/Pages/home.ctp:231
+msgid "Cake Software Foundation"
+msgstr "Cake Software Foundation"
+
+#: View/Pages/home.ctp:232
+msgid "Promoting development related to CakePHP"
+msgstr "Promovendo desenvolvimento relacionado a CakePHP"
+
+#: webroot/test.php:93
+msgid "Debug setting does not allow access to this url."
+msgstr "A configuração de debug não permite acesso a essa URL."
+
+#: Cache/Cache.php:173
+msgid "Cache engine %s is not available."
+msgstr "O motor de Cache %s não está disponível."
+
+#: Cache/Cache.php:177
+msgid "Cache engines must use %s as a base class."
+msgstr ""
+
+#: Cache/Cache.php:181
+msgid "Cache engine %s is not properly configured."
+msgstr ""
+
+#: Cache/Cache.php:316
+msgid "%s cache was unable to write '%s' to %s cache"
+msgstr ""
+
+#: Cache/Cache.php:538
+#, fuzzy
+msgid "Invalid cache group %s"
+msgstr "Objeto de schema inválido"
+
+#: Cache/Engine/FileEngine.php:312
+msgid "Files cannot be atomically decremented."
+msgstr "Arquivos não podem ser decrementados atomicamente."
+
+#: Cache/Engine/FileEngine.php:324
+msgid "Files cannot be atomically incremented."
+msgstr "Arquivos não podem ser incrementados atomicamente."
+
+#: Cache/Engine/FileEngine.php:361
+#, fuzzy
+msgid "Could not apply permission mask \"%s\" on cache file \"%s\""
+msgstr "Impossível setar permissões em %s"
+
+#: Cache/Engine/FileEngine.php:384
+msgid "%s is not writable"
+msgstr "%s não tem permissão de escrita"
+
+#: Cache/Engine/MemcacheEngine.php:165;182
+#, fuzzy
+msgid "Method %s not implemented for compressed cache in %s"
+msgstr "Método read() não implementado em %s"
+
+#: Configure/IniReader.php:100 Configure/PhpReader.php:62
+#, fuzzy
+msgid "Cannot load configuration files with ../ in them."
+msgstr "Seu arquivo de configuração do banco de dados está presente."
+
+#: Configure/IniReader.php:105 Configure/PhpReader.php:67
+#, fuzzy
+msgid "Could not load configuration file: %s"
+msgstr "Seu arquivo de configuração do banco de dados está presente."
+
+#: Configure/PhpReader.php:72
+msgid "No variable %s found in %s"
+msgstr "Nenhuma variável %s encontrada em %s"
+
+#: Console/Command/TestShell.php:174
+msgid ""
+"Please install PHPUnit framework v3.7 <info>(http://www.phpunit.de)</info>"
+msgstr ""
+
+#: Console/Command/TestShell.php:370
+#, fuzzy
+msgid "Test case %s cannot be run via this shell"
+msgstr "Template para %s não pôde ser encontrado"
+
+#: Console/Command/TestShell.php:383;400
+#, fuzzy
+msgid "Test case %s not found"
+msgstr "Template para %s não pôde ser encontrado"
+
+#: Console/Command/Task/PluginTask.php:180
+msgid "%s modified"
+msgstr "%s alterado"
+
+#: Console/Command/Task/TestTask.php:322
+#, fuzzy
+msgid "Invalid object type."
+msgstr "Objeto de schema inválido"
+
+#: Console/Command/Task/TestTask.php:341
+msgid "Invalid type name"
+msgstr "Nome de tipo inválido"
+
+#: Controller/Component/AclComponent.php:67
+msgid "Could not find %s."
+msgstr "Não pude encontrar %s."
+
+#: Controller/Component/AclComponent.php:91
+msgid "AclComponent adapters must implement AclInterface"
+msgstr ""
+
+#: Controller/Component/AclComponent.php:162;176
+msgid "%s is deprecated, use %s instead"
+msgstr ""
+
+#: Controller/Component/AuthComponent.php:493
+msgid "Authorization adapter \"%s\" was not found."
+msgstr ""
+
+#: Controller/Component/AuthComponent.php:496
+msgid "Authorization objects must implement an %s method."
+msgstr ""
+
+#: Controller/Component/AuthComponent.php:782
+msgid "Authentication adapter \"%s\" was not found."
+msgstr ""
+
+#: Controller/Component/AuthComponent.php:785
+msgid "Authentication objects must implement an %s method."
+msgstr ""
+
+#: Controller/Component/CookieComponent.php:384
+msgid "You must use cipher or rijndael for cookie encryption type"
+msgstr ""
+
+#: Controller/Component/RequestHandlerComponent.php:757
+msgid "You must give a handler callback."
+msgstr ""
+
+#: Controller/Component/SecurityComponent.php:335;619
+msgid "The request has been black-holed"
+msgstr ""
+
+#: Controller/Component/Acl/PhpAcl.php:104
+msgid "\"roles\" section not found in configuration."
+msgstr ""
+
+#: Controller/Component/Acl/PhpAcl.php:108
+msgid "Neither \"allow\" nor \"deny\" rules were provided in configuration."
+msgstr ""
+
+#: Controller/Component/Acl/PhpAcl.php:528
+msgid "cycle detected when inheriting %s from %s. Path: %s"
+msgstr ""
+
+#: Controller/Component/Auth/BaseAuthenticate.php:154
+#, fuzzy
+msgid "Password hasher class \"%s\" was not found."
+msgstr "Classe de component %1$s em %2$s não foi encontrada."
+
+#: Controller/Component/Auth/BaseAuthenticate.php:157
+msgid "Password hasher must extend AbstractPasswordHasher class."
+msgstr ""
+
+#: Controller/Component/Auth/BaseAuthorize.php:97
+msgid "$controller needs to be an instance of Controller"
+msgstr ""
+
+#: Controller/Component/Auth/ControllerAuthorize.php:51
+msgid "$controller does not implement an %s method."
+msgstr ""
+
+#: Controller/Component/Auth/CrudAuthorize.php:85
+#, fuzzy
+msgid ""
+"CrudAuthorize::authorize() - Attempted access of un-mapped action \"%1$s\" "
+"in controller \"%2$s\""
+msgstr ""
+"Auth::startup() - Tentativa de acesso da action não mapeada \"%1$s\" no "
+"controller \"%2$s\""
+
+#: Core/Configure.php:73
+#, fuzzy
+msgid ""
+"Can't find application core file. Please create %s, and make sure it is "
+"readable by PHP."
+msgstr ""
+"Arquivo core da aplicação não encontrado. Por favor crie %score.php, e "
+"certifique-se que ele pode ser lido pelo PHP."
+
+#: Core/Configure.php:93
+#, fuzzy
+msgid ""
+"Can't find application bootstrap file. Please create %s, and make sure it is "
+"readable by PHP."
+msgstr ""
+"Arquivo bootstrap da aplicação não encontrado. Por favor crie %sbootstrap."
+"php, e certifique-se que ele pode ser lido pelo PHP."
+
+#: Core/Configure.php:340
+msgid "There is no \"%s\" adapter."
+msgstr ""
+
+#: Core/Configure.php:343
+msgid "The \"%s\" adapter, does not have a %s method."
+msgstr ""
+
+#: Event/CakeEventManager.php:104
+msgid "The eventKey variable is required"
+msgstr ""
+
+#: I18n/I18n.php:164
+#, fuzzy
+msgid "You cannot use \"\" as a domain."
+msgstr "/ não pode ser usado como um alias!"
+
+#: I18n/I18n.php:202
+msgid ""
+"Missing plural form translation for \"%s\" in \"%s\" domain, \"%s\" locale.  "
+"Check your po file for correct plurals and valid Plural-Forms header."
+msgstr ""
+
+#: Log/CakeLog.php:190
+msgid "Invalid key name"
+msgstr ""
+
+#: Log/CakeLog.php:193
+#, fuzzy
+msgid "Missing logger class name"
+msgstr "Classe Helper não encontrada"
+
+#: Log/CakeLog.php:314;332;351
+#, fuzzy
+msgid "Stream %s not found"
+msgstr "%s não encontrado"
+
+#: Log/LogEngineCollection.php:44
+msgid "logger class %s does not implement a %s method."
+msgstr ""
+
+#: Log/LogEngineCollection.php:69
+#, fuzzy
+msgid "Could not load class %s"
+msgstr "Não pude encontrar %s."
+
+#: Log/Engine/FileLog.php:150
+#, fuzzy
+msgid "Could not apply permission mask \"%s\" on log file \"%s\""
+msgstr "Impossível setar permissões em %s"
+
+#: Model/AclNode.php:176
+msgid "AclNode::node() - Couldn't find %s node identified by \"%s\""
+msgstr ""
+
+#: Model/BehaviorCollection.php:226
+msgid "%s - Method %s not found in any attached behavior"
+msgstr ""
+
+#: Model/CakeSchema.php:615
+msgid ""
+"Schema generation error: invalid column type %s for %s.%s does not exist in "
+"DBO"
+msgstr ""
+
+#: Model/Model.php:1381
+msgid ""
+"(Model::getColumnTypes) Unable to build model field data. If you are using a "
+"model without a database table, try implementing schema()"
+msgstr ""
+"(Model::getColumnTypes) Impossível construir dados de campos do model. Se "
+"você está usando um model sem uma tabela, tente implementar schema()"
+
+#: Model/Model.php:3584
+msgid ""
+"Invalid join model settings in %s. The association parameter has the wrong "
+"type, expecting a string or array, but was passed type: %s"
+msgstr ""
+
+#: Model/Permission.php:86
+msgid ""
+"%s - Failed ARO node lookup in permissions check. Node references:\n"
+"Aro: %s\n"
+"Aco: %s"
+msgstr ""
+
+#: Model/Permission.php:97
+msgid ""
+"%s - Failed ACO node lookup in permissions check. Node references:\n"
+"Aro: %s\n"
+"Aco: %s"
+msgstr ""
+
+#: Model/Permission.php:108
+#, fuzzy
+msgid "ACO permissions key %s does not exist in %s"
+msgstr "A chave de permissões ACO %s não existe em DbAcl::check()"
+
+#: Model/Permission.php:179
+#, fuzzy
+msgid "%s - Invalid node"
+msgstr "DbAcl::allow() - Nó inválido"
+
+#: Model/Permission.php:197
+#, fuzzy
+msgid "Invalid permission key \"%s\""
+msgstr "Excluindo chave da sessão {%s}"
+
+#: Model/Behavior/AclBehavior.php:66
+#, fuzzy
+msgid "Callback %s not defined in %s"
+msgstr "Magic method handler call__ not defined in %s"
+
+#: Model/Behavior/AclBehavior.php:83
+msgid ""
+"AclBehavior is setup with more then one type, please specify type parameter "
+"for node()"
+msgstr ""
+
+#: Model/Behavior/ContainableBehavior.php:342
+msgid "Model \"%s\" is not associated with model \"%s\""
+msgstr "O model \"%s\" não está associado ao model \"%s\""
+
+#: Model/Behavior/TranslateBehavior.php:71
+msgid "Datasource %s for TranslateBehavior of model %s is not connected"
+msgstr "Datasource %s para o TranslateBehavior do model %s não está conectado"
+
+#: Model/Behavior/TranslateBehavior.php:601
+msgid "You cannot bind a translation named \"name\"."
+msgstr ""
+
+#: Model/Behavior/TranslateBehavior.php:623
+#, fuzzy
+msgid "Association %s is already bound to model %s"
+msgstr "Associação %s já está associada ao model %s"
+
+#: Model/Datasource/CakeSession.php:501
+msgid "Unable to configure the session, setting %s failed."
+msgstr ""
+
+#: Model/Datasource/CakeSession.php:535
+msgid "Could not load %s to handle the session."
+msgstr ""
+
+#: Model/Datasource/CakeSession.php:541
+msgid ""
+"Chosen SessionHandler does not implement CakeSessionHandlerInterface it "
+"cannot be used with an engine key."
+msgstr ""
+
+#: Model/Datasource/DboSource.php:255
+msgid "Selected driver is not enabled"
+msgstr ""
+
+#: Model/Datasource/DboSource.php:1189
+#, fuzzy
+msgid "Error in Model %s"
+msgstr "Erro no campo %s"
+
+#: Model/Datasource/DboSource.php:2966
+msgid "Invalid schema object"
+msgstr "Objeto de schema inválido"
+
+#: Model/Datasource/DboSource.php:3076
+#: Model/Datasource/Database/Sqlite.php:400
+msgid "Column name or type not defined in schema"
+msgstr "Nome ou tipo da coluna não definido no esquema"
+
+#: Model/Datasource/DboSource.php:3081
+#: Model/Datasource/Database/Sqlite.php:405
+#, fuzzy
+msgid "Column type %s does not exist"
+msgstr "Método %1$s::%2$s não existe"
+
+#: Model/Datasource/Database/Mysql.php:333
+#: Model/Datasource/Database/Sqlserver.php:223
+#, fuzzy
+msgid "Could not describe table for %s"
+msgstr "Não pude encontrar %s."
+
+#: Model/Validator/CakeValidationRule.php:281
+#, fuzzy
+msgid "Could not find validation handler %s for %s"
+msgstr "Nó pai não encontrado utilizando a referência \"%s\""
+
+#: Network/CakeRequest.php:451
+#, fuzzy
+msgid "Method %s does not exist"
+msgstr "Método %1$s::%2$s não existe"
+
+#: Network/CakeResponse.php:624
+msgid "Unknown status code"
+msgstr ""
+
+#: Network/CakeResponse.php:668
+#, fuzzy
+msgid "Invalid status code"
+msgstr "Objeto de schema inválido"
+
+#: Network/CakeResponse.php:1263
+msgid "The requested file contains `..` and will not be read."
+msgstr ""
+
+#: Network/CakeResponse.php:1276
+#, fuzzy
+msgid "The requested file %s was not found or not readable"
+msgstr "O endereço requisitado %s não foi encontrado neste servidor."
+
+#: Network/CakeSocket.php:304
+msgid "Connection timed out"
+msgstr ""
+
+#: Network/CakeSocket.php:371
+#, fuzzy
+msgid "Invalid encryption scheme chosen"
+msgstr "Objeto de schema inválido"
+
+#: Network/CakeSocket.php:384
+msgid "Unable to perform enableCrypto operation on CakeSocket"
+msgstr ""
+
+#: Network/Email/CakeEmail.php:366
+msgid "From requires only 1 email address."
+msgstr ""
+
+#: Network/Email/CakeEmail.php:381
+msgid "Sender requires only 1 email address."
+msgstr ""
+
+#: Network/Email/CakeEmail.php:396
+msgid "Reply-To requires only 1 email address."
+msgstr ""
+
+#: Network/Email/CakeEmail.php:411
+msgid "Disposition-Notification-To requires only 1 email address."
+msgstr ""
+
+#: Network/Email/CakeEmail.php:426
+msgid "Return-Path requires only 1 email address."
+msgstr ""
+
+#: Network/Email/CakeEmail.php:560;574;614;628
+#, fuzzy
+msgid "Invalid email: \"%s\""
+msgstr "Validação: %s"
+
+#: Network/Email/CakeEmail.php:659;674
+msgid "$headers should be an array."
+msgstr ""
+
+#: Network/Email/CakeEmail.php:879
+msgid "Format not available."
+msgstr ""
+
+#: Network/Email/CakeEmail.php:914
+#, fuzzy
+msgid "Class \"%s\" not found."
+msgstr "%s não encontrado"
+
+#: Network/Email/CakeEmail.php:916
+#, fuzzy
+msgid "The \"%s\" does not have a %s method."
+msgstr "%s não tem o método each() implementado"
+
+#: Network/Email/CakeEmail.php:937
+msgid ""
+"Invalid format for Message-ID. The text should be something like "
+"\"<uuid@server.com>\""
+msgstr ""
+
+#: Network/Email/CakeEmail.php:1016
+msgid "No file or data specified."
+msgstr ""
+
+#: Network/Email/CakeEmail.php:1019
+msgid "No filename specified."
+msgstr ""
+
+#: Network/Email/CakeEmail.php:1026
+#, fuzzy
+msgid "File not found: \"%s\""
+msgstr "Não pude encontrar %s."
+
+#: Network/Email/CakeEmail.php:1109
+msgid "From is not specified."
+msgstr ""
+
+#: Network/Email/CakeEmail.php:1112
+msgid "You need to specify at least one destination for to, cc or bcc."
+msgstr ""
+
+#: Network/Email/CakeEmail.php:1187
+#, fuzzy
+msgid "%s not found."
+msgstr "%s não encontrado"
+
+#: Network/Email/CakeEmail.php:1191
+msgid "Unknown email configuration \"%s\"."
+msgstr ""
+
+#: Network/Email/SmtpTransport.php:100
+#, fuzzy
+msgid "Unable to connect to SMTP server."
+msgstr "O Cake está apto a conectar ao banco de dados"
+
+#: Network/Email/SmtpTransport.php:121
+msgid ""
+"SMTP server did not accept the connection or trying to connect to non TLS "
+"SMTP server using TLS."
+msgstr ""
+
+#: Network/Email/SmtpTransport.php:126
+msgid "SMTP server did not accept the connection."
+msgstr ""
+
+#: Network/Email/SmtpTransport.php:142
+msgid "SMTP server did not accept the username."
+msgstr ""
+
+#: Network/Email/SmtpTransport.php:145
+msgid "SMTP server did not accept the password."
+msgstr ""
+
+#: Network/Email/SmtpTransport.php:148
+msgid ""
+"SMTP authentication method not allowed, check if SMTP server requires TLS"
+msgstr ""
+
+#: Network/Email/SmtpTransport.php:150
+msgid "SMTP does not require authentication."
+msgstr ""
+
+#: Network/Email/SmtpTransport.php:242
+msgid "SMTP timeout."
+msgstr ""
+
+#: Network/Email/SmtpTransport.php:253
+msgid "SMTP Error: %s"
+msgstr "Erro SMTP: %s"
+
+#: Network/Http/HttpResponse.php:21
+msgid ""
+"HttpResponse is deprecated due to naming conflicts. Use HttpSocketResponse "
+"instead."
+msgstr ""
+
+#: Network/Http/HttpSocket.php:244
+msgid "Invalid resource."
+msgstr "Recurso inválido"
+
+#: Network/Http/HttpSocket.php:404
+#, fuzzy
+msgid "Class %s not found."
+msgstr "%s não encontrado"
+
+#: Network/Http/HttpSocket.php:602
+msgid "Unknown authentication method."
+msgstr ""
+
+#: Network/Http/HttpSocket.php:605
+msgid "The %s does not support authentication."
+msgstr ""
+
+#: Network/Http/HttpSocket.php:631
+msgid "Unknown authentication method for proxy."
+msgstr ""
+
+#: Network/Http/HttpSocket.php:634
+msgid "The %s does not support proxy authentication."
+msgstr ""
+
+#: Network/Http/HttpSocket.php:886
+#, fuzzy
+msgid ""
+"HttpSocket::_buildRequestLine - Passed an invalid request line string. "
+"Activate quirks mode to do this."
+msgstr ""
+"HttpSocket::buildRequestLine - Passed an invalid request line string. "
+"Activate quirks mode to do this."
+
+#: Network/Http/HttpSocket.php:904
+#, fuzzy
+msgid ""
+"HttpSocket::_buildRequestLine - The \"*\" asterisk character is only allowed "
+"for the following methods: %s. Activate quirks mode to work outside of "
+"HTTP/1.1 specs."
+msgstr ""
+"HttpSocket::buildRequestLine - The \"*\" asterisk character is only allowed "
+"for the following methods: %s. Activate quirks mode to work outside of "
+"HTTP/1.1 specs.\n"
+"O caractere \"*\" asterisco só aceito pelos métodos acima. Ative o quirks "
+"mode para trabalhar fora das especificações HTTP/1.1"
+
+#: Network/Http/HttpSocketResponse.php:151
+msgid "Invalid response."
+msgstr "Resposta inválida."
+
+#: Network/Http/HttpSocketResponse.php:155
+msgid "Invalid HTTP response."
+msgstr "Resposta HTTP inválida."
+
+#: Network/Http/HttpSocketResponse.php:223
+#, fuzzy
+msgid "HttpSocket::_decodeChunkedBody - Could not parse malformed chunk."
+msgstr ""
+"HttpSocket::decodeChunkedBody - Could not parse malformed chunk. Activate "
+"quirks mode to do this."
+
+#: Routing/Router.php:234
+msgid "Route class not found, or route class is not a subclass of CakeRoute"
+msgstr ""
+
+#: Utility/CakeNumber.php:163
+msgid "No unit type."
+msgstr ""
+
+#: Utility/ClassRegistry.php:116
+msgid ""
+"(ClassRegistry::init() Attempted to create instance of a class with a "
+"numeric name"
+msgstr ""
+"(ClassRegistry::init() Tentativa de instanciar uma classe com nome numérico"
+
+#: Utility/ClassRegistry.php:148
+msgid "Cannot create instance of %s, as it is abstract or is an interface"
+msgstr ""
+
+#: Utility/ClassRegistry.php:189
+#, fuzzy
+msgid "(ClassRegistry::init() could not create instance of %s"
+msgstr "(ClassRegistry::init() não pôde criar instância de %1$s class %2$s "
+
+#: Utility/Debugger.php:629
+msgid "Invalid Debugger output format."
+msgstr ""
+
+#: Utility/Debugger.php:845
+#, fuzzy
+msgid ""
+"Please change the value of %s in %s to a salt value specific to your "
+"application."
+msgstr ""
+"Por favor modifique o valor do 'Security.salt' em APP/Config/core.php para "
+"um valor específico para sua aplicação."
+
+#: Utility/Debugger.php:849
+#, fuzzy
+msgid ""
+"Please change the value of %s in %s to a numeric (digits only) seed value "
+"specific to your application."
+msgstr ""
+"Por favor modifique o valor do 'Security.salt' em app/config/core.php para "
+"um valor específico para sua aplicação"
+
+#: Utility/Folder.php:385;408
+msgid "%s changed to %s"
+msgstr "%s mudou para %s"
+
+#: Utility/Folder.php:389;410
+msgid "%s NOT changed to %s"
+msgstr "%s NÃO mudou para %s"
+
+#: Utility/Folder.php:506
+msgid "%s is a file"
+msgstr "%s é um arquivo"
+
+#: Utility/Folder.php:517;695
+msgid "%s created"
+msgstr "%s criado"
+
+#: Utility/Folder.php:521
+msgid "%s NOT created"
+msgstr "%s NÃO criado"
+
+#: Utility/Folder.php:593;601;613
+msgid "%s removed"
+msgstr "%s removido"
+
+#: Utility/Folder.php:595;603;615
+msgid "%s NOT removed"
+msgstr "%s NÃO removido"
+
+#: Utility/Folder.php:653
+msgid "%s not found"
+msgstr "%s não encontrado"
+
+#: Utility/Folder.php:662
+msgid "%s not writable"
+msgstr "%s sem permissão de escrita"
+
+#: Utility/Folder.php:678
+msgid "%s copied to %s"
+msgstr "%s copiado para %s"
+
+#: Utility/Folder.php:680
+msgid "%s NOT copied to %s"
+msgstr "%s NÃO copiado para %s"
+
+#: Utility/Folder.php:699
+msgid "%s not created"
+msgstr "%s não criado"
+
+#: Utility/Hash.php:361
+msgid "Hash::combine() needs an equal number of keys + values."
+msgstr ""
+
+#: Utility/ObjectCollection.php:128
+msgid "Cannot use modParams with indexes that do not exist."
+msgstr ""
+
+#: Utility/Security.php:159
+msgid "Invalid value, cost must be between %s and %s"
+msgstr ""
+
+#: Utility/Security.php:186;219
+#, fuzzy
+msgid "You cannot use an empty key for %s"
+msgstr "Você não pode usar uma chave vazia para Security::cipher()"
+
+#: Utility/Security.php:223
+msgid ""
+"You must specify the operation for Security::rijndael(), either encrypt or "
+"decrypt"
+msgstr ""
+
+#: Utility/Security.php:227
+#, fuzzy
+msgid "You must use a key larger than 32 bytes for Security::rijndael()"
+msgstr "Você não pode usar uma chave vazia para Security::cipher()"
+
+#: Utility/Security.php:281
+msgid ""
+"Invalid salt: %s for %s Please visit http://www.php.net/crypt and read the "
+"appropriate section for building %s salts."
+msgstr ""
+
+#: Utility/Validation.php:257
+#, fuzzy
+msgid "You must define the $operator parameter for %s"
+msgstr "Você deve definir o parâmetro $operator para Validation::comparison()"
+
+#: Utility/Validation.php:275
+#, fuzzy
+msgid "You must define a regular expression for %s"
+msgstr "Você deve definir uma expressão regular para Validation::custom()"
+
+#: Utility/Validation.php:837
+msgid "Could not find %s class, unable to complete validation."
+msgstr ""
+
+#: Utility/Validation.php:841
+msgid "Method %s does not exist on %s unable to complete validation."
+msgstr ""
+
+#: Utility/Validation.php:935
+msgid "Can not determine the mimetype."
+msgstr ""
+
+#: Utility/Xml.php:108;112;117
+#, fuzzy
+msgid "XML cannot be read."
+msgstr "XML não pode ser lido"
+
+#: Utility/Xml.php:115;194
+msgid "Invalid input."
+msgstr "Entrada inválida."
+
+#: Utility/Xml.php:149
+#, fuzzy
+msgid "Xml cannot be read."
+msgstr "XML não pode ser lido"
+
+#: Utility/Xml.php:198
+msgid "The key of input must be alphanumeric"
+msgstr ""
+
+#: Utility/Xml.php:275;288
+msgid "Invalid array"
+msgstr ""
+
+#: Utility/Xml.php:339
+msgid "The input is not instance of SimpleXMLElement, DOMDocument or DOMNode."
+msgstr ""
+
+#: View/Helper.php:192
+msgid "Method %1$s::%2$s does not exist"
+msgstr "Método %1$s::%2$s não existe"
+
+#: View/View.php:419
+#, fuzzy
+msgid "Element Not Found: %s"
+msgstr "Não encontrado"
+
+#: View/View.php:714
+msgid "You cannot extend an element which does not exist (%s)."
+msgstr ""
+
+#: View/View.php:730
+msgid "You cannot have views extend themselves."
+msgstr ""
+
+#: View/View.php:733
+msgid "You cannot have views extend in a loop."
+msgstr ""
+
+#: View/View.php:916
+msgid "The \"%s\" block was left open. Blocks are not allowed to cross files."
+msgstr ""
+
+#: View/Elements/sql_dump.ctp:81
+msgid "Encountered unexpected %s. Cannot generate SQL log."
+msgstr ""
+
+#: View/Errors/fatal_error.ctp:20
+#, fuzzy
+msgid "Fatal Error"
+msgstr "Erro de Scaffold"
+
+#: View/Errors/fatal_error.ctp:22 View/Errors/missing_action.ctp:21;25
+#: View/Errors/missing_behavior.ctp:23;27
+#: View/Errors/missing_component.ctp:23;27
+#: View/Errors/missing_connection.ctp:21;32
+#: View/Errors/missing_controller.ctp:23;27
+#: View/Errors/missing_database.ctp:21;25
+#: View/Errors/missing_datasource.ctp:23
+#: View/Errors/missing_datasource_config.ctp:21
+#: View/Errors/missing_helper.ctp:23;27 View/Errors/missing_layout.ctp:21;25
+#: View/Errors/missing_plugin.ctp:21;25 View/Errors/missing_table.ctp:21
+#: View/Errors/missing_view.ctp:21;25 View/Errors/pdo_error.ctp:21
+#: View/Errors/private_action.ctp:21 View/Errors/scaffold_error.ctp:21
+msgid "Error"
+msgstr "Erro"
+
+#: View/Errors/fatal_error.ctp:26
+msgid "File"
+msgstr "Arquivo"
+
+#: View/Errors/fatal_error.ctp:30
+msgid "Line"
+msgstr "Linha"
+
+#: View/Errors/fatal_error.ctp:34 View/Errors/missing_action.ctp:40
+#: View/Errors/missing_behavior.ctp:37 View/Errors/missing_component.ctp:37
+#: View/Errors/missing_connection.ctp:37 View/Errors/missing_controller.ctp:37
+#: View/Errors/missing_database.ctp:29 View/Errors/missing_datasource.ctp:30
+#: View/Errors/missing_datasource_config.ctp:25
+#: View/Errors/missing_helper.ctp:37 View/Errors/missing_layout.ctp:29
+#: View/Errors/missing_plugin.ctp:41 View/Errors/missing_table.ctp:25
+#: View/Errors/missing_view.ctp:29 View/Errors/pdo_error.ctp:35
+#: View/Errors/private_action.ctp:25 View/Errors/scaffold_error.ctp:25
+msgid "Notice"
+msgstr "Advertência"
+
+#: View/Errors/fatal_error.ctp:35 View/Errors/missing_action.ctp:41
+#: View/Errors/missing_behavior.ctp:38 View/Errors/missing_component.ctp:38
+#: View/Errors/missing_connection.ctp:38 View/Errors/missing_controller.ctp:38
+#: View/Errors/missing_database.ctp:30 View/Errors/missing_datasource.ctp:31
+#: View/Errors/missing_datasource_config.ctp:26
+#: View/Errors/missing_helper.ctp:38 View/Errors/missing_layout.ctp:30
+#: View/Errors/missing_plugin.ctp:42 View/Errors/missing_table.ctp:26
+#: View/Errors/missing_view.ctp:30 View/Errors/pdo_error.ctp:36
+#: View/Errors/private_action.ctp:26 View/Errors/scaffold_error.ctp:26
+msgid "If you want to customize this error message, create %s"
+msgstr "Se você quiser customizar esta mensagem de erro, crie %s"
+
+#: View/Errors/missing_action.ctp:20
+msgid "Missing Method in %s"
+msgstr "Método não encontrado em %s"
+
+#: View/Errors/missing_action.ctp:22
+msgid "The action %1$s is not defined in controller %2$s"
+msgstr "A action %1$s não está definida no controller %2$s"
+
+#: View/Errors/missing_action.ctp:26
+msgid "Create %1$s%2$s in file: %3$s."
+msgstr "Crie %1$s%2$s no arquivo: %3$s."
+
+#: View/Errors/missing_behavior.ctp:21
+#, fuzzy
+msgid "Missing Behavior"
+msgstr "Arquivo de Helper não encontrado"
+
+#: View/Errors/missing_behavior.ctp:24 View/Errors/missing_component.ctp:24
+#: View/Errors/missing_controller.ctp:24 View/Errors/missing_helper.ctp:24
+msgid "%s could not be found."
+msgstr "%s não pôde ser encontrado."
+
+#: View/Errors/missing_behavior.ctp:28 View/Errors/missing_component.ctp:28
+#: View/Errors/missing_controller.ctp:28 View/Errors/missing_helper.ctp:28
+msgid "Create the class %s below in file: %s"
+msgstr "Crie a classe %s abaixo no arquivo: %s"
+
+#: View/Errors/missing_component.ctp:21
+#, fuzzy
+msgid "Missing Component"
+msgstr "Arquivo de Component não encontrado"
+
+#: View/Errors/missing_connection.ctp:19 View/Errors/missing_database.ctp:19
+msgid "Missing Database Connection"
+msgstr "Não há conexão com o banco de dados"
+
+#: View/Errors/missing_connection.ctp:22
+msgid "A Database connection using \"%s\" was missing or unable to connect."
+msgstr ""
+
+#: View/Errors/missing_connection.ctp:26
+msgid "The database server returned this error: %s"
+msgstr "O servidor de banco de dados retornou este erro: %s"
+
+#: View/Errors/missing_connection.ctp:33
+#, fuzzy
+msgid "%s driver is NOT enabled"
+msgstr "%s NÃO mudou para %s"
+
+#: View/Errors/missing_controller.ctp:21
+msgid "Missing Controller"
+msgstr "Controller não encontrado"
+
+#: View/Errors/missing_database.ctp:22
+msgid "Scaffold requires a database connection"
+msgstr "Scaffold necessita de uma conexão ao banco de dados"
+
+#: View/Errors/missing_database.ctp:26 View/Errors/missing_layout.ctp:26
+#: View/Errors/missing_view.ctp:26
+msgid "Confirm you have created the file: %s"
+msgstr "Verifique que você criou o arquivo: %s"
+
+#: View/Errors/missing_datasource.ctp:21
+#, fuzzy
+msgid "Missing Datasource"
+msgstr "Database não encontrado"
+
+#: View/Errors/missing_datasource.ctp:24
+#, fuzzy
+msgid "Datasource class %s could not be found."
+msgstr "%s não pôde ser encontrado."
+
+#: View/Errors/missing_datasource_config.ctp:19
+#, fuzzy
+msgid "Missing Datasource Configuration"
+msgstr "Não há conexão com o banco de dados"
+
+#: View/Errors/missing_datasource_config.ctp:22
+#, fuzzy
+msgid "The datasource configuration %1$s was not found in database.php."
+msgstr ""
+"Sua configuração de banco de dados não foi encontrada. Tire alguns minutos "
+"para criar uma."
+
+#: View/Errors/missing_helper.ctp:21
+#, fuzzy
+msgid "Missing Helper"
+msgstr "Arquivo de Helper não encontrado"
+
+#: View/Errors/missing_layout.ctp:19
+msgid "Missing Layout"
+msgstr "Layout não encontrado"
+
+#: View/Errors/missing_layout.ctp:22
+msgid "The layout file %s can not be found or does not exist."
+msgstr "O arquivo de layout %s não pode ser encontrado ou não existe."
+
+#: View/Errors/missing_plugin.ctp:19
+#, fuzzy
+msgid "Missing Plugin"
+msgstr "View não encontrada"
+
+#: View/Errors/missing_plugin.ctp:22
+msgid "The application is trying to load a file from the %s plugin"
+msgstr "A aplicação está tentando carregar um arquivo do plugin %s"
+
+#: View/Errors/missing_plugin.ctp:26
+msgid "Make sure your plugin %s is in the %s directory and was loaded"
+msgstr ""
+
+#: View/Errors/missing_plugin.ctp:34
+msgid "Loading all plugins"
+msgstr "Carregando todos os plugins"
+
+#: View/Errors/missing_plugin.ctp:35
+msgid ""
+"If you wish to load all plugins at once, use the following line in your %s "
+"file"
+msgstr ""
+
+#: View/Errors/missing_table.ctp:19
+msgid "Missing Database Table"
+msgstr "Tabela não encontrada no banco de dados"
+
+#: View/Errors/missing_table.ctp:22
+#, fuzzy
+msgid "Table %1$s for model %2$s was not found in datasource %3$s."
+msgstr "A tabela %1$s para o model %2$s não foi encontrada."
+
+#: View/Errors/missing_view.ctp:19
+msgid "Missing View"
+msgstr "View não encontrada"
+
+#: View/Errors/missing_view.ctp:22
+msgid "The view for %1$s%2$s was not found."
+msgstr "O view para %1$s%2$s não foi encontrado."
+
+#: View/Errors/pdo_error.ctp:19
+#, fuzzy
+msgid "Database Error"
+msgstr "Usar Database Config"
+
+#: View/Errors/pdo_error.ctp:26
+#, fuzzy
+msgid "SQL Query"
+msgstr "Query:"
+
+#: View/Errors/pdo_error.ctp:31
+msgid "SQL Query Params"
+msgstr ""
+
+#: View/Errors/private_action.ctp:19
+msgid "Private Method in %s"
+msgstr "Método privado em %s"
+
+#: View/Errors/private_action.ctp:22
+msgid "%s%s cannot be accessed directly."
+msgstr "%s%s não pode ser acessado diretamente."
+
+#: View/Errors/scaffold_error.ctp:19
+msgid "Scaffold Error"
+msgstr "Erro de Scaffold"
+
+#: View/Errors/scaffold_error.ctp:22
+msgid "Method _scaffoldError in was not found in the controller"
+msgstr "Método _scaffoldError não foi encontrado no controller"
+
+#: View/Helper/CacheHelper.php:156
+msgid "Unable to write view cache file: \"%s\" for \"%s\""
+msgstr ""
+
+#: View/Helper/FormHelper.php:1605
+msgid "Missing field name for FormHelper::%s"
+msgstr ""
+
+#: View/Helper/HtmlHelper.php:1221
+msgid "Cannot load the configuration file. Wrong \"configFile\" configuration."
+msgstr ""
+
+#: View/Helper/HtmlHelper.php:1227
+#, fuzzy
+msgid "Cannot load the configuration file. Unknown reader."
+msgstr "Seu arquivo de configuração do banco de dados está presente."
+
+#: View/Helper/JsHelper.php:152
+msgid "JsHelper:: Missing Method %s is undefined"
+msgstr ""
+
+#: View/Helper/MootoolsEngineHelper.php:311
+#, fuzzy
+msgid "%s requires a \"drag\" option to properly function"
+msgstr ""
+"MootoolsEngine::drop() requer a opção \"drag\" a funcionar corretamente"
+
+#: View/Helper/NumberHelper.php:63 View/Helper/TextHelper.php:78
+#: View/Helper/TimeHelper.php:61
+msgid "%s could not be found"
+msgstr "%s não pôde ser encontrado"
+
+#: View/Helper/PaginatorHelper.php:99
+msgid "%s does not implement a %s method, it is incompatible with %s"
+msgstr ""
+
+msgid "The requested address %s was not found on this server."
+msgstr "O endereço requisitado %s não foi encontrado neste servidor."
+
+msgid "An Internal Error Has Occurred."
+msgstr "Ocorreu um Erro Interno."
+
+msgid "Scaffold :: "
+msgstr "Scaffold :: "
+
+msgid "Invalid %s"
+msgstr "%s inválido"
+
+msgid "created"
+msgstr "criado"
+
+msgid "modified"
+msgstr "modificado"
+
+msgid "updated"
+msgstr "atualizado"
+
+msgid "saved"
+msgstr "salvo"
+
+#felipevr
+msgid "List"
+msgstr "Listar"
+
+msgid "Add"
+msgstr "Adicionar"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "New"
+msgstr "Adicionar"
+
+msgid "The %s has been saved."
+msgstr "O %s foi salvo."
+
+msgid "The %s could not be saved. Please, try again."
+msgstr "O %s não pode ser salvo. Por favor, tente novamente."
+
+msgid "The %s has been deleted."
+msgstr "O %s foi apagado."
+
+msgid "The %s could not be deleted. Please, try again."
+msgstr "O %s não pode ser apagado. Por favor, tente novamente."
+
+msgid "The %1$s has been %2$s"
+msgstr "O %1$s foi %2$s"
+
+msgid "Please correct errors below."
+msgstr "Por favor corrija os erros abaixo."
+
+#, fuzzy
+msgid "The %1$s with id: %2$s has been deleted."
+msgstr "O %1$s com id: %2$d foi excluído."
+
+#, fuzzy
+msgid "There was an error deleting the %1$s with id: %2$s"
+msgstr "Houve um erro ao deletar o %1$s com id: %2$d"
+
+msgid "You are not authorized to access that location."
+msgstr "Você não tem autorização para acessar aquele local."
+
+msgid "Not Found"
+msgstr "Não encontrado"
+
+msgid "This field cannot be left blank"
+msgstr "Este campo não pode ser deixado em branco"
+
+#, fuzzy
+msgid "The requested file was not found"
+msgstr "O arquivo de component não foi encontrado."
+
+msgid "%s KB"
+msgstr "%s KB"
+
+msgid "%s MB"
+msgstr "%s MB"
+
+msgid "%s GB"
+msgstr "%s GB"
+
+msgid "%s TB"
+msgstr "%s TB"
+
+msgid "%d Byte"
+msgid_plural "%d Bytes"
+msgstr[0] "%d Byte"
+msgstr[1] "%d Bytes"
+
+msgid "Today, %s"
+msgstr "Hoje, %s"
+
+msgid "Yesterday, %s"
+msgstr "Ontem, %s"
+
+msgid "Tomorrow, %s"
+msgstr "Amanhã, %s"
+
+msgid "Sunday"
+msgstr "Domingo"
+
+msgid "Monday"
+msgstr "Segunda-feira"
+
+msgid "Tuesday"
+msgstr "Terça-feira"
+
+msgid "Wednesday"
+msgstr "Quarta-feira"
+
+msgid "Thursday"
+msgstr "Quinta-feira"
+
+msgid "Friday"
+msgstr "Sexta-feira"
+
+msgid "Saturday"
+msgstr "Sábado"
+
+#, fuzzy
+msgid "On %s %s"
+msgstr "em %s"
+
+msgid "%s ago"
+msgstr "%s atrás"
+
+msgid "on %s"
+msgstr "em %s"
+
+msgid "just now"
+msgstr "agora"
+
+#, fuzzy
+msgid "in about a week"
+msgstr "Mais sobre Cake"
+
+#, fuzzy
+msgid "in about a year"
+msgstr "Mais sobre Cake"
+
+msgid "days"
+msgstr "dias"
+
+#, fuzzy
+msgid "%d year"
+msgid_plural "%d years"
+msgstr[0] "ano"
+msgstr[1] "anos"
+
+#, fuzzy
+msgid "%d month"
+msgid_plural "%d months"
+msgstr[0] "mês"
+msgstr[1] "meses"
+
+#, fuzzy
+msgid "%d week"
+msgid_plural "%d weeks"
+msgstr[0] "semana"
+msgstr[1] "semanas"
+
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] "%d dia, %s dias"
+msgstr[1] ""
+
+#, fuzzy
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] "hora"
+msgstr[1] "horas"
+
+#, fuzzy
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] "minuto"
+msgstr[1] "minutos"
+
+#, fuzzy
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] "segundo"
+msgstr[1] "segundos"
+
+msgid "Error in field %s"
+msgstr "Erro no campo %s"
+
+msgid "New %s"
+msgstr "Adicionar %s"
+
+msgid "Edit %s"
+msgstr "Editar %s"
+
+msgid "empty"
+msgstr "vazio"
+
+msgid "Submit"
+msgstr "Enviar"
+
+msgid "January"
+msgstr "Janeiro"
+
+msgid "February"
+msgstr "Fevereiro"
+
+msgid "March"
+msgstr "Março"
+
+msgid "April"
+msgstr "Abril"
+
+msgid "May"
+msgstr "Maio"
+
+msgid "June"
+msgstr "Junho"
+
+msgid "July"
+msgstr "Julho"
+
+msgid "August"
+msgstr "Agosto"
+
+msgid "September"
+msgstr "Setembro"
+
+msgid "October"
+msgstr "Outubro"
+
+msgid "November"
+msgstr "Novembro"
+
+msgid "December"
+msgstr "Dezembro"
+
+msgid "Home"
+msgstr "Home"
+
+msgid " of "
+msgstr " de "
+
+msgid "Actions"
+msgstr "Ações"
+
+msgid "Delete"
+msgstr "Excluir"
+
+msgid "Are you sure you want to delete # %s?"
+msgstr "Você tem certeza que quer excluir # %s?"
+
+msgid "List"
+msgstr "Listar"
+
+msgid "List %s"
+msgstr "Listar %s"
+
+msgid "View"
+msgstr "Visualizar"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "previous"
+msgstr "anterior"
+
+msgid "next"
+msgstr "próximo"
+
+msgid "View %s"
+msgstr "Visualizar %s"
+
+msgid "Delete %s"
+msgstr "Excluir %s"
+
+msgid "Related %s"
+msgstr "%s Relacionados(as)"
+
+msgid "Enable verbose output."
+msgstr "Habilitar saída detalhada?"
+
+#, fuzzy
+msgid "App : %s"
+msgstr "Tipo: %s"
+
+msgid "Path: %s"
+msgstr "Caminho: %s"
+
+msgid "<warning>File `%s` exists</warning>"
+msgstr "<warning>Arquivo `%s` existe</warning>"
+
+msgid "Do you want to overwrite?"
+msgstr "Você deseja sobreescrever?"
+
+msgid "Skip `%s`"
+msgstr "Pular `%s`"
+
+msgid "Creating file %s"
+msgstr "Criando arquivo %s"
+
+msgid "<error>Could not write to `%s`</error>."
+msgstr "<error>Erro! Não pôde escrever em `%s`</error>."
+
+#, fuzzy
+msgid ""
+"Error: Your current CakePHP configuration is set to an ACL implementation "
+"other than DB."
+msgstr "Erro: Sua configuração atual do Cake está setada para uma implementação ACL fora do banco de dados."
+
+#, fuzzy
+msgid ""
+"Please change your core config to reflect your decision to use DbAcl "
+"before attempting to use this script"
+msgstr "Por favor, mude sua configuração do núcleo para refletir sua decisão de usar DbAcl"
+
+msgid "Current ACL Classname: %s"
+msgstr "Nome de classe ACL atual: %s"
+
+msgid ""
+"Your database configuration was not found. Take a moment to create one."
+msgstr ""
+"Sua configuração de banco de dados não foi encontrada. Tire alguns "
+"minutos para criar uma."
+
+msgid "/ can not be used as an alias!"
+msgstr "/ não pode ser usado como um alias!"
+
+#, fuzzy
+msgid "\t/ is the root, please supply a sub alias"
+msgstr "\\t/ é a raiz, por favor forneça um sub alias"
+
+msgid "<success>New %s</success> '%s' created."
+msgstr "<success>Novo(a) %s</success> '%s' criado.\n"
+
+msgid "There was a problem creating a new %s '%s'."
+msgstr "Houve um problema ao criar um novo(a) %s '%s'."
+
+msgid "Node Not Deleted. "
+msgstr "Nó não excluído."
+
+#, fuzzy
+msgid "There was an error deleting the %s."
+msgstr "Houve um erro ao deletar o %1$s com id: %2$d"
+
+msgid "There was an error deleting the %s. Node does not exist."
+msgstr "Houve um erro ao deletar o %s. O nó não existe."
+
+msgid ""
+"Error in setting new parent. Please make sure the parent node exists, and "
+"is not a descendant of the node specified."
+msgstr ""
+"Erro ao definir novo pai. Por favor certifique-se que o nó pai existe, e "
+"não é um descendente do nó especificado."
+
+msgid "Node parent set to %s"
+msgstr "Nó pai setado para %s"
+
+msgid "Supplied Node '%s' not found"
+msgstr "Nó '%s' informado não encontrado"
+
+msgid "No tree returned."
+msgstr "Nenhuma árvore retornada."
+
+msgid "Path:"
+msgstr "Caminho:"
+
+#, fuzzy
+msgid "%s is <error>not allowed</error>."
+msgstr "%s não é permitido."
+
+#, fuzzy
+msgid "Permission <success>granted</success>."
+msgstr "Permissão concedida."
+
+#, fuzzy
+msgid "Permission was <error>not granted</error>."
+msgstr "Permissão não foi concedida."
+
+msgid "Permission denied."
+msgstr "Permissão negada."
+
+msgid "Permission was not denied."
+msgstr "Permissão não foi negada."
+
+msgid "Permission inherited."
+msgstr "Permissão herdada."
+
+msgid "Permission was not inherited."
+msgstr "Permissão não foi herdada."
+
+#, fuzzy
+msgid "Create a new ACL node"
+msgstr ""
+"Cria um novo objeto ACL <nó> sob o pai especificado por <pai>, um id/"
+"alias."
+
+#, fuzzy
+msgid "Creates a new ACL object <node> under the parent"
+msgstr ""
+"Cria um novo objeto ACL <nó> sob o pai especificado por <pai>, um id/"
+"alias."
+
+#, fuzzy
+msgid "Deletes the ACL object with the given <node> reference"
+msgstr ""
+"Exclui o objeto ACL com a referência <nó> dada (veja 'create' para "
+"informação sobre referências de nós)."
+
+#, fuzzy
+msgid "Moves the ACL node under a new parent."
+msgstr ""
+"Cria um novo objeto ACL <nó> sob o pai especificado por <pai>, um id/"
+"alias."
+
+#, fuzzy
+msgid "Moves the ACL object specified by <node> beneath <parent>"
+msgstr ""
+"Move o objeto ACL especificado por <nó> abaixo do objeto ACL pai "
+"especificado por <pai>."
+
+#, fuzzy
+msgid "Returns the path to the ACL object specified by <node>."
+msgstr ""
+"Retorna o caminho para o objeto ACL especificado por <nó>. Este comando"
+
+#, fuzzy
+msgid ""
+"This command is useful in determining the inheritance of permissions for "
+"a certain object in the tree."
+msgstr "é útil para determinar a hernaça de permissões para um certo"
+
+msgid "Use this command to check ACL permissions."
+msgstr "Use este comando para checar permissões ACL."
+
+#, fuzzy
+msgid ""
+"Use this command to force a child ARO object to inherit its permissions "
+"settings from its parent."
+msgstr "Use este comando para forçar um objeto ARO filho a herdar suas"
+
+#, fuzzy
+msgid "ARO to have permissions inherit."
+msgstr "Permissão herdada."
+
+#, fuzzy
+msgid "ACO to inherit permissions on."
+msgstr "Impossível setar permissões em %s"
+
+#, fuzzy
+msgid "The view command will return the ARO or ACO tree."
+msgstr "O comando view retornará a árvore ARO ou ACO. O parâmetro"
+
+msgid "The optional node parameter allows you to return"
+msgstr "O parâmetro opcional do nó permite você retornar"
+
+#, fuzzy
+msgid "only a portion of the requested tree."
+msgstr ""
+"id/alias opcional permite que você retorne apenas uma porção da árvore "
+"requisitada."
+
+#, fuzzy
+msgid "The optional node to view the subtree of."
+msgstr "O parâmetro opcional do nó permite você retornar"
+
+#, fuzzy
+msgid ""
+"Initialize the DbAcl tables. Uses this command : cake schema create DbAcl"
+msgstr "Usa este comando : cake schema run create DbAcl"
+
+#, fuzzy
+msgid "Could not find node using reference \"%s\""
+msgstr "Nó pai não encontrado utilizando a referência \"%s\""
+
+msgid "%s::%s() could not be found"
+msgstr "%s::%s() não pôde ser encontrado"
+
+msgid ""
+"Select a number to see the more information about a specific method. q to "
+"quit. l to list."
+msgstr ""
+"Selecione um número para ver mais informações sobre um método específico. "
+"q para sair. l para listar."
+
+msgid "Done"
+msgstr "Feito"
+
+#, fuzzy
+msgid "Command %s not found"
+msgstr "Comando '%s' não encontrado"
+
+#, fuzzy
+msgid "[D]atabase Configuration"
+msgstr "Usar Database Config"
+
+#, fuzzy
+msgid "[C]ontroller"
+msgstr "Controller não encontrado"
+
+#, fuzzy
+msgid "[P]roject"
+msgstr "Projeto Bake"
+
+#, fuzzy
+msgid "[T]est case"
+msgstr "Test saindo do forno\n"
+
+msgid "[Q]uit"
+msgstr "[Q]uit"
+
+msgid "What would you like to Bake?"
+msgstr "O que você gostaria de assar?"
+
+#, fuzzy
+msgid ""
+"You have made an invalid selection. Please choose a type of class to Bake "
+"by entering D, M, V, F, T, or C."
+msgstr ""
+"Você fez uma seleção inválida. Por favor escolha um tipo de classe para "
+"pôr no forno digitando D, M, V, ou C."
+
+#, fuzzy
+msgid "<success>Bake All complete</success>"
+msgstr "Bake All completado"
+
+msgid "Bake All could not continue without a valid model"
+msgstr "Bake All não pôde continuar sem um Model válido"
+
+#, fuzzy
+msgid "Bake a model."
+msgstr "Bake All completado"
+
+#, fuzzy
+msgid "Bake views for controllers."
+msgstr "Controller não encontrado"
+
+#, fuzzy
+msgid "Bake a controller."
+msgstr "Controller não encontrado"
+
+#, fuzzy
+msgid "Does nothing (deprecated)"
+msgstr "%s não criado"
+
+#, fuzzy
+msgid ""
+"There was an error loading the routes config. Please check that the file "
+"exists and contains no errors."
+msgstr "Houve um erro ao deletar o %s. Cheque se o nó existe"
+
+#, fuzzy
+msgid "Invalid command"
+msgstr "Objeto de schema inválido"
+
+#, fuzzy
+msgid "No result set found"
+msgstr "Nó pai setado para %s"
+
+#, fuzzy
+msgid "%s is not a valid model"
+msgstr "%s não é permitido."
+
+#, fuzzy
+msgid ""
+"There was an error loading the routes config. Please check that the file "
+"exists and is free of parse errors."
+msgstr "Houve um erro ao deletar o %s. Cheque se o nó existe"
+
+#, fuzzy
+msgid "<info>I18n Shell</info>"
+msgstr "I18n Shell"
+
+msgid "[E]xtract POT file from sources"
+msgstr "[E]xtrair arquivos POT dos fontes"
+
+msgid "[I]nitialize i18n database table"
+msgstr "[I]nicializar tabela i18n do banco de dados"
+
+msgid "[H]elp"
+msgstr "[H]elp"
+
+msgid "What would you like to do?"
+msgstr "O que você gostaria de fazer?"
+
+msgid ""
+"You have made an invalid selection. Please choose a command to execute by "
+"entering E, I, H, or Q."
+msgstr ""
+"Você fez uma seleção inválida. Por favor escolha um comando para executar "
+"digitando E, I, H, ou Q."
+
+#, fuzzy
+msgid ""
+"I18n Shell initializes i18n database table for your application and "
+"generates .pot files(s) with translations."
+msgstr "I18n Shell inicializa a tabela i18n para sua aplicação"
+
+#, fuzzy
+msgid "Initialize the i18n table."
+msgstr "[I]nicializar tabela i18n do banco de dados"
+
+#, fuzzy
+msgid "Schema file (%s) could not be found."
+msgstr "Schema não encontrado"
+
+msgid "Generating Schema..."
+msgstr "Gerando esquema..."
+
+msgid "Schema file: %s generated"
+msgstr "Schema: %s gerado"
+
+msgid "Schema could not be loaded"
+msgstr "Schema não pôde ser carregado"
+
+msgid "SQL dump file created in %s"
+msgstr "Arquivo de SQL dump criado em %s"
+
+msgid "SQL dump could not be created"
+msgstr "SQL dump não pôde ser criado"
+
+msgid "Performing a dry run."
+msgstr "Executando dry run."
+
+#, fuzzy
+msgid "The chosen schema could not be loaded. Attempted to load:"
+msgstr "Schema não pôde ser carregado"
+
+#, fuzzy
+msgid "File: %s"
+msgstr "Relacionado %s"
+
+#, fuzzy
+msgid "Name: %s"
+msgstr "Nome do plugin: %s"
+
+msgid "Schema is up to date."
+msgstr "Schema está atualizado."
+
+msgid "The following table(s) will be dropped."
+msgstr "A(s) seguinte(s) tabela(s) será(ão) removida(s)."
+
+msgid "Are you sure you want to drop the table(s)?"
+msgstr "Você tem certeza que quer remover a(s) tabela(s)?s"
+
+msgid "Dropping table(s)."
+msgstr "Excluindo tabela(s)."
+
+msgid "The following table(s) will be created."
+msgstr "A(s) seguinte(s) tabela(s) será(ão) criada(s)."
+
+msgid "Are you sure you want to create the table(s)?"
+msgstr "Você tem certeza que quer criar a(s) tabela(s)?"
+
+#, fuzzy
+msgid "Creating table(s)."
+msgstr "Criando arquivo %s"
+
+msgid "End create."
+msgstr "Fim da criação."
+
+#, fuzzy
+msgid "Comparing Database to Schema..."
+msgstr "Atualizando banco de dados..."
+
+msgid "The following statements will run."
+msgstr "As seguintes declarações serão executadas."
+
+msgid "Are you sure you want to alter the tables?"
+msgstr "Você tem certeza que deseja alterar as tabelas?"
+
+msgid "Updating Database..."
+msgstr "Atualizando banco de dados..."
+
+msgid "End update."
+msgstr "Fim da atualização."
+
+msgid "Sql could not be run"
+msgstr "Sql não pôde ser executado"
+
+msgid "%s is up to date."
+msgstr "%s está atualizado."
+
+msgid "Dry run for %s :"
+msgstr "Dry run para %s :"
+
+msgid "%s updated."
+msgstr "%s atualizado."
+
+#, fuzzy
+msgid "Ignore default configuration file (phpunit.xml)."
+msgstr "Seu arquivo de configuração do banco de dados está presente."
+
+#, fuzzy
+msgid "More verbose output."
+msgstr "Você quer saída verbose?"
+
+#, fuzzy
+msgid "CakePHP Test Shell"
+msgstr "CakePHP Trac"
+
+#, fuzzy
+msgid "What test case would you like to run?"
+msgstr "O que você gostaria de fazer?"
+
+#, fuzzy
+msgid "Running %s"
+msgstr "Executando %s %s %s"
+
+#, fuzzy
+msgid "Moving %s to %s"
+msgstr "Executando %s %s %s"
+
+#, fuzzy
+msgid "Updating %s..."
+msgstr "Atualizando banco de dados..."
+
+#, fuzzy
+msgid " * Updating %s"
+msgstr "Cozinhando %s"
+
+msgid "Baking basic crud methods for "
+msgstr "Criando o CRUD dos métodos para "
+
+msgid "Adding %s methods"
+msgstr "Incluindo %s métodos"
+
+#, fuzzy
+msgid "Baking %sController"
+msgstr "Controller não encontrado"
+
+msgid "Would you like to build your controller interactively?"
+msgstr "Você gostaria de construir seu controller interativamente?"
+
+msgid "Warning: Choosing no will overwrite the %sController."
+msgstr "Aviso: Escolher não sobrescreverá o %sController."
+
+#, fuzzy
+msgid "Would you like to use dynamic scaffolding?"
+msgstr "Você gostaria de usar scaffolding?"
+
+#, fuzzy
+msgid "Would you like to use Session flash messages?"
+msgstr "Você gostaria de usar Sessions?"
+
+msgid "Look okay?"
+msgstr "Tudo certo?"
+
+#, fuzzy
+msgid "The following controller will be created:"
+msgstr "O seguinte Model será criado:"
+
+#, fuzzy
+msgid ""
+"Controller Name:\n"
+"\t%s"
+msgstr "Dump do controller:"
+
+msgid "Helpers:"
+msgstr "Helpers:"
+
+#, fuzzy
+msgid "Components:"
+msgstr "Comandos:"
+
+#, fuzzy
+msgid ""
+"Would you like to create some basic class methods \n"
+"(index(), add(), view(), edit())?"
+msgstr ""
+"Você gostaria de incluir alguns métodos básicos (index(), add(), view(), "
+"edit())?"
+
+msgid "Would you like to create the basic class methods for admin routing?"
+msgstr "Você gostaria de criar métodos para admin routing?"
+
+#, fuzzy
+msgid ""
+"You must have a model for this class to build basic methods. Please try "
+"again."
+msgstr ""
+"Você deve ter um model para esta classe para construir métodos de "
+"scaffold. Por favor tente novamente."
+
+#, fuzzy
+msgid "Baking controller class for %s..."
+msgstr "Controller não encontrado"
+
+#, fuzzy
+msgid ""
+"Would you like this controller to use other helpers\n"
+"besides HtmlHelper and FormHelper?"
+msgstr ""
+"Você deseja que este controller use outros helpers além de HtmlHelper e "
+"FormHelper?"
+
+#, fuzzy
+msgid ""
+"Please provide a comma separated list of the other\n"
+"helper names you'd like to use.\n"
+"Example: 'Text, Js, Time'"
+msgstr ""
+"Por favor entre com uma lista separada por vírgulas de outros nomes de "
+"helpers que você gostaria de usar.\n"
+"Exemplo: 'Ajax, Javascript, Time'"
+
+#, fuzzy
+msgid ""
+"Would you like this controller to use other components\n"
+"besides PaginatorComponent?"
+msgstr ""
+"Você deseja que este controller use outros helpers além de HtmlHelper e "
+"FormHelper?"
+
+msgid ""
+"Please provide a comma separated list of the component names you'd like "
+"to use.\n"
+"Example: 'Acl, Security, RequestHandler'"
+msgstr ""
+"Por favor entre com uma lista separada por vírgulas com os nomes dos "
+"componentes que você gostaria de usar.\n"
+"Exemplo: 'Acl, Security, RequestHandler'"
+
+#, fuzzy
+msgid "Possible Controllers based on your current database:"
+msgstr "Possíveis Models baseado em seu atual banco de dados:"
+
+#, fuzzy
+msgid ""
+"Enter a number from the list above,\n"
+"type in the name of another controller, or 'q' to exit"
+msgstr ""
+"Entre com um número da lista acima, digite o nome de outro controller, ou "
+"'q' para sair"
+
+msgid "Exit"
+msgstr "Sair"
+
+#, fuzzy
+msgid ""
+"The Controller name you supplied was empty,\n"
+"or the number you selected was not an option. Please try again."
+msgstr ""
+"O nome de Controller que você forneceu estava vazio, ou o número \n"
+"que você selecionou não era uma opção. Por favor tente novamente."
+
+#, fuzzy
+msgid "Database Configuration:"
+msgstr "Usar Database Config"
+
+#, fuzzy
+msgid "Persistent Connection?"
+msgstr "Não há conexão com o banco de dados"
+
+#, fuzzy
+msgid "Database Host:"
+msgstr "Usar Database Config"
+
+#, fuzzy
+msgid "User:"
+msgstr "Adiconar Usuário"
+
+#, fuzzy
+msgid "The password you supplied was empty. Use an empty password?"
+msgstr ""
+"O caminho de diretório que você forneceu estava vazio. Por favor tente "
+"novamente."
+
+#, fuzzy
+msgid "Database Name:"
+msgstr "Tabela não encontrada no banco de dados"
+
+#, fuzzy
+msgid "Do you wish to add another database configuration?"
+msgstr "Você gostaria de incluir uma nova regra de validação?"
+
+#, fuzzy
+msgid "The following database configuration will be created:"
+msgstr "O seguinte Model será criado:"
+
+#, fuzzy
+msgid "Name:         %s"
+msgstr "Caminho:            %s"
+
+#, fuzzy
+msgid "Datasource:   %s"
+msgstr "Tabela: %s"
+
+#, fuzzy
+msgid "Host:         %s"
+msgstr "Caminho:            %s"
+
+#, fuzzy
+msgid "Port:         %s"
+msgstr "Caminho:            %s"
+
+#, fuzzy
+msgid "User:         %s"
+msgstr "Caminho:            %s"
+
+#, fuzzy
+msgid "Pass:         %s"
+msgstr "Caminho:            %s"
+
+#, fuzzy
+msgid "Database:     %s"
+msgstr "Tabela: %s"
+
+#, fuzzy
+msgid "Table prefix: %s"
+msgstr "Tabela: %s"
+
+#, fuzzy
+msgid "Schema:       %s"
+msgstr "Caminho:            %s"
+
+msgid "Use Database Config"
+msgstr "Usar Database Config"
+
+#, fuzzy
+msgid "Bake new database configuration settings."
+msgstr "Seu arquivo de configuração do banco de dados está presente."
+
+#, fuzzy
+msgid ""
+"Current paths: %s\n"
+"What is the path you would like to extract?\n"
+"[Q]uit [D]one"
+msgstr ""
+"Qual o caminho completo que você deseja extrair?\n"
+"Exemplo: %s\n"
+"[Q]Sair [D]Continuar"
+
+msgid "Extract Aborted"
+msgstr "Extração Abortada"
+
+#, fuzzy
+msgid "The directory path you supplied was not found. Please try again."
+msgstr ""
+"O caminho de diretório que você forneceu estava vazio. Por favor tente "
+"novamente."
+
+#, fuzzy
+msgid "Would you like to extract the messages from the CakePHP core?"
+msgstr "Você gostaria de importar o schema para esta fixture?"
+
+#, fuzzy
+msgid ""
+"What is the path you would like to output?\n"
+"[Q]uit"
+msgstr ""
+"Qual o caminho para o layout de diretório que você deseja copiar?\n"
+"Exemplo: %s"
+
+#, fuzzy
+msgid ""
+"Would you like to merge all domain and category strings into the default."
+"pot file?"
+msgstr ""
+"Você gostaria de misturar todos as string de domínios no arquivo default."
+"pot?"
+
+#, fuzzy
+msgid "The output directory %s was not found or writable."
+msgstr "Seu diretório tmp está com permissão de escrita"
+
+msgid "Extracting..."
+msgstr "Extraindo..."
+
+msgid "Paths:"
+msgstr "Caminhos:"
+
+#, fuzzy
+msgid "Done."
+msgstr "Feito"
+
+#, fuzzy
+msgid "CakePHP Language String Extraction:"
+msgstr "Documentação CakePHP"
+
+#, fuzzy
+msgid "Merge all domain and category strings into the default.po file."
+msgstr ""
+"Você gostaria de misturar todos as string de domínios no arquivo default."
+"pot?"
+
+msgid "Processing %s..."
+msgstr "Processando %s..."
+
+#, fuzzy
+msgid "What would you like to name this file?"
+msgstr "O que você gostaria de assar?"
+
+#, fuzzy
+msgid "Which database configuration to use for baking."
+msgstr "Seu arquivo de configuração do banco de dados está presente."
+
+#, fuzzy
+msgid "CamelCased name of the plugin to bake fixtures for."
+msgstr "Digite o nome do plugin no formato CamelCase"
+
+msgid "Would you like to import schema for this fixture?"
+msgstr "Você gostaria de importar o schema para esta fixture?"
+
+#, fuzzy
+msgid "Would you like to use record importing for this fixture?"
+msgstr "Você gostaria de usar scaffolding?"
+
+msgid "Baking %s"
+msgstr "Cozinhando %s"
+
+msgid "Make a selection from the choices above"
+msgstr "Faça a seleção das opções abaixo"
+
+#, fuzzy
+msgid ""
+"Would you like to supply validation criteria \n"
+"for the fields in your model?"
+msgstr ""
+"Você deseja fornecer critérios de validação para os campos de seu model?"
+
+#, fuzzy
+msgid ""
+"Would you like to define model associations\n"
+"(hasMany, hasOne, belongsTo, etc.)?"
+msgstr ""
+"Você gostaria de definir model associations (hasMany, hasOne, belongsTo, "
+"etc.)?"
+
+msgid "The following Model will be created:"
+msgstr "O seguinte Model será criado:"
+
+#, fuzzy
+msgid "Name:       %s"
+msgstr "Caminho:            %s"
+
+msgid "DB Config:  %s"
+msgstr "Configuração do DB: %s"
+
+msgid "DB Table:   %s"
+msgstr "Tabela: %s"
+
+msgid "Primary Key: %s"
+msgstr "Chave primária: %s"
+
+msgid "Validation: %s"
+msgstr "Validação: %s"
+
+#, fuzzy
+msgid "Associations:"
+msgstr "Ações"
+
+msgid "What is the primaryKey?"
+msgstr "Qual é a primaryKey?"
+
+#, fuzzy
+msgid "Please select one of the following validation options:"
+msgstr "Por favor confirme as seguintes associações:"
+
+msgid "Would you like to add another validation rule?"
+msgstr "Você gostaria de incluir uma nova regra de validação?"
+
+msgid "One moment while the associations are detected."
+msgstr "Um momento enquanto as associações são detectadas."
+
+msgid "None found."
+msgstr "Nenhuma encontrada."
+
+msgid "Please confirm the following associations:"
+msgstr "Por favor confirme as seguintes associações:"
+
+msgid "Would you like to define some additional model associations?"
+msgstr "Você deseja definir alguma associação adicional?"
+
+msgid "What is the association type?"
+msgstr "Qual é o tipo de associação?"
+
+msgid "Enter a number"
+msgstr "Digite um número"
+
+#, fuzzy
+msgid ""
+"For the following options be very careful to match your setup exactly.\n"
+"Any spelling mistakes will cause errors."
+msgstr ""
+"Para as seguintes opções seja muito cuidadoso para igualar exatamente "
+"suas configurações. Qualquer erro de digitação causará erros."
+
+msgid "What is the alias for this association?"
+msgstr "Qual é o alias para essa associação?"
+
+msgid "What className will %s use?"
+msgstr "Qual className %s usará?"
+
+msgid "What is the table for this model?"
+msgstr "Qual é a tabela para este model?"
+
+msgid "A helpful List of possible keys"
+msgstr "Uma lista útil das possíveis keys"
+
+msgid "What is the foreignKey?"
+msgstr "Qual é a foreignKey?"
+
+msgid "What is the foreignKey? Specify your own."
+msgstr "Qual é a foreignKey? Especifique sua própria."
+
+msgid "What is the associationForeignKey?"
+msgstr "Qual é a associationForeignKey?"
+
+msgid "What is the joinTable?"
+msgstr "Qual e a joinTable?"
+
+msgid "Define another association?"
+msgstr "Definir outra associação?"
+
+msgid "Possible Models based on your current database:"
+msgstr "Possíveis Models baseado em seu atual banco de dados:"
+
+#, fuzzy
+msgid ""
+"Given your model named '%s',\n"
+"Cake would expect a database table named '%s'"
+msgstr "Dado seu model chamado '%s', o Cake espera uma tabela chamada %s"
+
+msgid "Do you want to use this table?"
+msgstr "Você quer usar essa tabela?"
+
+#, fuzzy
+msgid "What is the name of the table?"
+msgstr "Qual é a tabela para este model?"
+
+msgid "Your database does not have any tables."
+msgstr "Seu banco de dados não tem nenhuma tabela."
+
+#, fuzzy
+msgid ""
+"Enter a number from the list above,\n"
+"type in the name of another model, or 'q' to exit"
+msgstr ""
+"Entre com um número da lista acima, digite o nome de outro model, ou 'q' "
+"para sair"
+
+#, fuzzy
+msgid ""
+"The model name you supplied was empty,\n"
+"or the number you selected was not an option. Please try again."
+msgstr ""
+"O nome de model que você forneceu estava vazio, ou o número que você "
+"selecionou não era uma opção. Por favor tente novamente."
+
+#, fuzzy
+msgid "Bake models."
+msgstr "Bake All completado"
+
+#, fuzzy
+msgid "Bake all model files with associations and validation."
+msgstr "Um momento enquanto as associações são detectadas."
+
+#, fuzzy
+msgid "The connection the model table is on."
+msgstr "O Cake está apto a conectar ao banco de dados"
+
+msgid "Enter the name of the plugin in CamelCase format"
+msgstr "Digite o nome do plugin no formato CamelCase"
+
+#, fuzzy
+msgid "An error occurred trying to bake: %s in %s"
+msgstr "Ocorreu um erro tentando assar: %s em %s"
+
+#, fuzzy
+msgid "<info>Plugin Name:</info> %s"
+msgstr "Nome do plugin: %s"
+
+#, fuzzy
+msgid "<info>Plugin Directory:</info> %s"
+msgstr "Diretório do plugin: %s"
+
+#, fuzzy
+msgid "<success>Created:</success> %s in %s"
+msgstr "Criado: %s em %s"
+
+#, fuzzy
+msgid "What is the path to the project you want to bake?"
+msgstr ""
+"Qual o caminho para o layout de diretório que você deseja copiar?\n"
+"Exemplo: %s"
+
+#, fuzzy
+msgid " * Random hash key created for 'Security.salt'"
+msgstr "Hash key randômica criada para 'Security.salt'"
+
+msgid ""
+"Unable to generate random hash for 'Security.salt', you should change it "
+"in %s"
+msgstr ""
+"Incapaz de gerar hash randômica para 'Security.salt', você deveria alterá-"
+"la em %s"
+
+#, fuzzy
+msgid " * Random seed created for 'Security.cipherSeed'"
+msgstr "Hash key randômica criada para 'Security.salt'"
+
+#, fuzzy
+msgid ""
+"Unable to generate random seed for 'Security.cipherSeed', you should "
+"change it in %s"
+msgstr ""
+"Incapaz de gerar hash randômica para 'Security.salt', você deveria alterá-"
+"la em %s"
+
+#, fuzzy
+msgid " * CAKE_CORE_INCLUDE_PATH set to %s in %s"
+msgstr "CAKE_CORE_INCLUDE_PATH setado para %s em webroot/test.php"
+
+msgid "Unable to set CAKE_CORE_INCLUDE_PATH, you should change it in %s"
+msgstr ""
+"Falha ao setar CAKE_CORE_INCLUDE_PATH, você deveria modificá-lo em %s"
+
+#, fuzzy
+msgid ""
+"   * <warning>Remember to check these values after moving to production "
+"server</warning>"
+msgstr ""
+"Lembre-se de checar esses valores após alterar o server para produção"
+
+msgid "Could not set permissions on %s"
+msgstr "Impossível setar permissões em %s"
+
+#, fuzzy
+msgid "What is the path to the directory layout you wish to copy?"
+msgstr ""
+"Qual o caminho para o layout de diretório que você deseja copiar?\n"
+"Exemplo: %s"
+
+msgid "The directory path you supplied was empty. Please try again."
+msgstr ""
+"O caminho de diretório que você forneceu estava vazio. Por favor tente "
+"novamente."
+
+msgid "Directory path does not exist please choose another:"
+msgstr "Diretório não existente, por favor selecione outro:"
+
+#, fuzzy
+msgid "<info>Skel Directory</info>: "
+msgstr "Diretório Skel:"
+
+#, fuzzy
+msgid "<info>Will be copied to</info>: "
+msgstr "%s copiado para %s"
+
+#, fuzzy
+msgid "<error>Bake Aborted.</error>"
+msgstr "Bake All completado"
+
+#, fuzzy
+msgid "What would you like the prefix route to be?"
+msgstr "O que você gostaria de fazer?"
+
+#, fuzzy
+msgid "Example: %s"
+msgstr "Tipo: %s"
+
+#, fuzzy
+msgid "Which bake theme would you like to use?"
+msgstr "O que você gostaria de assar?"
+
+#, fuzzy
+msgid "Could not find template for %s"
+msgstr "Não pude encontrar %s."
+
+#, fuzzy
+msgid "Enter the type of object to bake a test for or (q)uit"
+msgstr "Digite o nome para testar ou 'q' para sair"
+
+#, fuzzy
+msgid ""
+"Please provide a comma separated list of the fixtures names you'd like to "
+"use.\n"
+"Example: 'app.comment, app.post, plugin.forums.post'"
+msgstr ""
+"Por favor entre com uma lista separada por vírgulas de outros nomes de "
+"helpers que você gostaria de usar.\n"
+"Exemplo: 'Ajax, Javascript, Time'"
+
+#, fuzzy
+msgid "CamelCased name of the plugin to bake tests for."
+msgstr "Digite o nome do plugin no formato CamelCase"
+
+#, fuzzy
+msgid "Would you like to create the views for admin routing?"
+msgstr "Você gostaria de criar métodos para admin routing?"
+
+msgid "Controller not found"
+msgstr "Controller não encontrado"
+
+msgid ""
+"The file '%s' could not be found.\n"
+"In order to bake a view, you'll need to first create the controller."
+msgstr ""
+"O arquivo '%s' não pôde ser encontrado.\n"
+"Para assar um view, você precisa primeiro criar o controller."
+
+#, fuzzy
+msgid "The action name you supplied was empty. Please try again."
+msgstr ""
+"O caminho de diretório que você forneceu estava vazio. Por favor tente "
+"novamente."
+
+#, fuzzy
+msgid "The following view will be created:"
+msgstr "O seguinte Model será criado:"
+
+#, fuzzy
+msgid "Controller Name: %s"
+msgstr "Dump do controller:"
+
+msgid "Path:            %s"
+msgstr "Caminho:            %s"
+
+#, fuzzy
+msgid "Bake Aborted."
+msgstr "Bake All completado"
+
+#, fuzzy
+msgid "abday"
+msgstr "dia"
+
+#, fuzzy
+msgid "day"
+msgstr "dia"
+
+msgid "d_t_fmt"
+msgstr "d_t_fmt"
+
+#, fuzzy
+msgid "abmon"
+msgstr "mês"
+
+#, fuzzy
+msgid "mon"
+msgstr "mês"
+
+msgid "am_pm"
+msgstr "am_pm"
+
+msgid "t_fmt_ampm"
+msgstr "t_fmt_ampm"
+
+msgid "d_fmt"
+msgstr "d_fmt"
+
+msgid "t_fmt"
+msgstr "t_fmt"
+
+#, fuzzy
+msgid "Error: Class %s could not be loaded."
+msgstr "%s não pode ser carregado"
+
+msgid "Error: Unknown %1$s command %2$s."
+msgstr "Erro: Desconhecido %1$s comando %2$s."
+
+msgid "For usage try `cake %s help`"
+msgstr "Para usar, tente `cake %s help`"
+
+msgid "Missing Controller '%s'"
+msgstr "Controller '%s' não encontrado"
+
+msgid "Missing Method '%s' in '%s'"
+msgstr "Método '%s' não encontrado em '%s'"
+
+msgid "Trying to access private method '%s' in '%s'"
+msgstr "Tentando acessar o método privado '%s' em '%s'"
+
+msgid "Missing database table '%s' for model '%s'"
+msgstr "Tabela '%s' não encontrada para o model '%s'"
+
+msgid "Missing View '%s' for '%s' in '%s'"
+msgstr "View '%s' para '%s' em '%s' não encontrada"
+
+msgid "Missing Layout '%s'"
+msgstr "Layout '%s' não encontrado"
+
+msgid "Missing Database Connection. Try 'cake bake'"
+msgstr "Conexão com o banco de dados não detectada. Tente 'cake bake'"
+
+msgid "Missing Helper file '%s' for '%s'"
+msgstr "Arquivo de Helper '%s' para '%s' não encontrado"
+
+msgid "Missing Helper class '%s' in '%s'"
+msgstr "Classe Helper '%s' em '%s' não encontrada"
+
+msgid "Missing Component file '%s' for '%s'"
+msgstr "Arquivo de Component '%s' para '%s' não encontrado"
+
+msgid "Missing Component class '%s' in '%s'"
+msgstr "Classe Component '%s' em '%s' não encontrada"
+
+msgid "Missing model '%s'"
+msgstr "Model '%s' não encontrado"
+
+msgid "an ACL implementation other than DB. Please change"
+msgstr "uma implementação ACL diferente de DB. Por favor modifique"
+
+msgid "DbAcl before attempting to use this script"
+msgstr "DbAcl antes de tentar usar este script"
+
+msgid "Available ACL commands:"
+msgstr "Comandos ACL disponíveis:"
+
+msgid ""
+"For help, run the 'help' command.  For help on a specific command, run "
+"'help <command>'"
+msgstr ""
+"Para ajuda, execute o comando 'help'. Para ajuda em um comando "
+"específico, execute 'help <command>'"
+
+msgid "%s deleted"
+msgstr "%s excluído"
+
+msgid "%s is allowed."
+msgstr "%s é permitido."
+
+msgid "Usage: cake acl <command> <arg1> <arg2>..."
+msgstr "Uso: cake acl <comando> <arg1> <arg2>..."
+
+msgid "Commands:"
+msgstr "Comandos:"
+
+#, fuzzy
+msgid "specified by <parent>, an id/alias."
+msgstr "Especifique um alias alternativo."
+
+#, fuzzy
+msgid "The <parent> and <node> references can be"
+msgstr "As referências <pai> e <nó> podem ser em um dos seguintes formatos:"
+
+#, fuzzy
+msgid "in one of the following formats:"
+msgstr "Por favor confirme as seguintes associações:"
+
+#, fuzzy
+msgid "<model>.<id> - The node will be bound to a"
+msgstr ""
+"<model>.<id> - O nó vai ser vinculado a uma gravação específica do modelo "
+"dado"
+
+#, fuzzy
+msgid "specific record of the given model."
+msgstr ""
+"<model>.<id> - O nó vai ser vinculado a uma gravação específica do modelo "
+"dado"
+
+#, fuzzy
+msgid "<alias> - The node will be given a string alias,"
+msgstr ""
+"<alias> - Será dado ao nó uma string de apelido - alias - (ou caminho, no "
+"caso de <pai>),"
+
+msgid " (or path, in the case of <parent>)"
+msgstr " (ou caminho, no caso de <parente>)"
+
+#, fuzzy
+msgid "i.e. 'John'.  When used with <parent>,"
+msgstr ""
+"por exemplo 'João'.  Quando usado com <pai>, toma a forma de um caminho "
+"de apelidos,"
+
+#, fuzzy
+msgid "this takes the form of an alias path,"
+msgstr ""
+"por exemplo 'João'.  Quando usado com <pai>, toma a forma de um caminho "
+"de apelidos,"
+
+msgid "i.e. <group>/<subgroup>/<parent>."
+msgstr "por exemplo <grupo>/<subgrupo>/<pai>."
+
+msgid "To add a node at the root level,"
+msgstr "Para incluir um nó no nível raiz,"
+
+#, fuzzy
+msgid "enter 'root' or '/' as the <parent> parameter."
+msgstr ""
+"Para adicionar um nó no nível raiz, digite 'root' ou '/' como parâmtro "
+"<pai>."
+
+#, fuzzy
+msgid "For more detailed parameter usage info,"
+msgstr ""
+"Para uma informação sobre uso de parâmetros mais detalhada, veja o help "
+"para o comando 'create'."
+
+#, fuzzy
+msgid "see help for the 'create' command."
+msgstr ""
+"Para uma informação sobre uso de parâmetros mais detalhada, veja o help "
+"para o comando 'create'."
+
+#, fuzzy
+msgid "the parent ACL object specified by <parent>."
+msgstr ""
+"Retorna o caminho para o objeto ACL especificado por <nó>. Este comando"
+
+msgid "object in the tree."
+msgstr "objeto na árvore."
+
+msgid "or"
+msgstr "ou"
+
+msgid "Use this command to grant ACL permissions. Once executed, the ARO"
+msgstr ""
+"Use este comando para ceder permissões ACL. Uma vez executado, o ARO"
+
+msgid "specified (and its children, if any) will have ALLOW access to the"
+msgstr ""
+"especificado (e seus filhos, se existir algum) terão permissão de acesso "
+"(ALLOW) para a"
+
+msgid "specified ACO action (and the ACO's children, if any)."
+msgstr " ação ACO específicado (e as filhas de ACO, se existir alguma)."
+
+msgid "Use this command to deny ACL permissions. Once executed, the ARO"
+msgstr "Use este comando para negar pemissões ACL. Uma vez executado, o ARO"
+
+msgid "specified (and its children, if any) will have DENY access to the"
+msgstr ""
+"especificado (e seus filhos, se existir algum) terão acesso negado (DENY) "
+"para a"
+
+msgid "permissions settings from its parent."
+msgstr "configurações de permissões de seu pai."
+
+msgid "Displays this help message, or a message on a specific command."
+msgstr ""
+"Exibe esta mensagem de ajuda, ou uma mensagem sobre um comando específico."
+
+msgid "Missing/Unknown node type: '%s'"
+msgstr "Tipo de nó desconhecido/não encontrado: '%s'"
+
+#, fuzzy
+msgid ""
+"Please specify which ACL object type you wish to create. Either \"aro\" "
+"or \"aco\""
+msgstr "Por favor especifique qual tipo de objeto ACL você deseja criar."
+
+msgid ""
+"%s directory could not be found.\n"
+"Be sure you have created %s"
+msgstr ""
+"Diretório %s não pôde ser encontrado.\n"
+"Certifique-se que você criou %s"
+
+msgid "%s Model was baked."
+msgstr "Model %s saiu do forno."
+
+msgid "%s Controller was baked."
+msgstr "Controller %s saiu do forno."
+
+#, fuzzy
+msgid "%s Views were baked."
+msgstr "Model %s saiu do forno."
+
+msgid "I18n Shell:"
+msgstr "I18n Shell:"
+
+msgid "and generates .pot file(s) with translations."
+msgstr "e gera arquivo(s) .pot com traduções."
+
+msgid "usage:"
+msgstr "uso:"
+
+msgid "%s could not be loaded"
+msgstr "%s não pode ser carregado"
+
+msgid "Quitting."
+msgstr "Saindo."
+
+#, fuzzy
+msgid "Wrote `%s`"
+msgstr "Escreveu"
+
+msgid "Sorry, you did not pass any arguments!"
+msgstr "Desculpe, você não pasosu nenhum argumento!"
+
+#, fuzzy
+msgid "Sorry, the tests could not be found."
+msgstr "%s não pôde ser encontrado."
+
+msgid ""
+"You must install Xdebug to use the CakePHP(tm) Code Coverage Analyzation. "
+"Download it from http://www.xdebug.org/docs/install"
+msgstr ""
+"Você deve instalar o Xdebug para usar o CakePHP(tm) Code Coverage "
+"Analyzation. Baixe em from http://www.xdebug.org/docs/install"
+
+msgid ""
+"Sorry, Simpletest could not be found. Download it from http://simpletest."
+"org and install it to your vendors directory."
+msgstr ""
+"Desculpe, Simpletest não pode ser encontrado. Baixe em  http://simpletest."
+"org e instale no diretório vendors."
+
+msgid "Would you like this controller to use any components?"
+msgstr "Você deseja que este controller use algum componente?"
+
+#, fuzzy
+msgid "The Extract script generates .pot file(s) with translations"
+msgstr "e gera arquivo(s) .pot com traduções."
+
+#, fuzzy
+msgid "Usage: cake i18n extract <command> <param1> <param2>..."
+msgstr "Uso: cake acl <comando> <arg1> <arg2>..."
+
+msgid "Params:"
+msgstr "Parâmetros:"
+
+msgid "Table %s does not exist, cannot bake a model without a table."
+msgstr ""
+"A tabela %s não existe. Não é possível cozinhar um model sem a tabela."
+
+msgid "Plugin: %s"
+msgstr "Plugin: %s"
+
+#, fuzzy
+msgid "%s in path %s not found."
+msgstr "%s não encontrado"
+
+msgid "Welcome page created"
+msgstr "Página de boas-vindas criada"
+
+msgid "The Welcome page was NOT created"
+msgstr "A página de boas-vindas não foi criada"
+
+msgid "CAKE_CORE_INCLUDE_PATH set to %s in webroot/index.php"
+msgstr "CAKE_CORE_INCLUDE_PATH setado para %s em webroot/index.php"
+
+msgid "chmod -R 0777 %s"
+msgstr "chmod -R 0777 %s"
+
+#, fuzzy
+msgid " '%s' could not be created properly"
+msgstr "SQL dump não pôde ser criado"
+
+msgid "CakePHP: the rapid development php framework:"
+msgstr "CakePHP: o framework php de desenvolvimento rápido:"
+
+msgid "Method write() not implemented in %s"
+msgstr "Método write() não implementado em %s"
+
+msgid "Method read() not implemented in %s"
+msgstr "Método read() não implementado em %s"
+
+#, fuzzy
+msgid "Method increment() not implemented in %s"
+msgstr "Método read() não implementado em %s"
+
+#, fuzzy
+msgid "Method decrement() not implemented in %s"
+msgstr "Método read() não implementado em %s"
+
+msgid "%s doesn't exist"
+msgstr "%s não existe"
+
+msgid "Writing session key {%s}: %s"
+msgstr "Escrevendo chave da sessão {%s}: %s"
+
+msgid ""
+"You must set the all Configure::write('Session.*') in core.php to use "
+"database storage"
+msgstr ""
+"Você deve setar todos os Configure::write('Session.*') no core.php para "
+"usar armazenamento no banco de dados"
+
+msgid "Configure::load() - no variable $config found in %s.php"
+msgstr "Configure::load() - variável $config não encontrada em %s.php"
+
+#, fuzzy
+msgid ""
+"Cache not configured properly. Please check Cache::config(); in APP/"
+"config/core.php"
+msgstr ""
+"Seu cache NÃO está funcionando. Por favor verifique as configurações em "
+"APP/config/core.php"
+
+msgid "Missing Method in Controller"
+msgstr "Método não encontrado no Controller"
+
+msgid "Trying to access private method in class"
+msgstr "Tentativa de acessar método privado na classe"
+
+msgid "Scaffold Missing Database Connection"
+msgstr "Scaffold não tem conexão com o banco de dados"
+
+msgid "Missing Helper Class"
+msgstr "Classe Helper não encontrada"
+
+#, fuzzy
+msgid "Missing Behavior Class"
+msgstr "Classe Helper não encontrada"
+
+msgid "Missing Component Class"
+msgstr "Classe de component não encontrada"
+
+msgid "Missing Model"
+msgstr "Model não encontrado"
+
+#, fuzzy
+msgid ""
+"HttpSocket::_decodeBody - Unknown encoding: %s. Activate quirks mode to "
+"surpress error."
+msgstr ""
+"HttpSocket::decodeBody - Unknown encoding: %s. Activate quirks mode to "
+"surpress error.\n"
+"HttpSocket::decodeBody - Encoding desconhecido."
+
+msgid "Magic method handler call__ not defined in %s"
+msgstr "Magic method handler call__ not defined in %s"
+
+#, fuzzy
+msgid "Method decrement() not implemented for compressed cache in %s"
+msgstr "Método read() não implementado em %s"
+
+msgid ""
+"Controller::__construct() : Can not get or parse my own class name, "
+"exiting."
+msgstr ""
+"Controller::__construct() : Não pude ler ou validar meu próprio nome de "
+"classe, saindo."
+
+msgid "%s::isAuthorized() is not defined."
+msgstr "%s::isAuthorized() não está definido."
+
+msgid ""
+"Controller::paginate() - can't find model %1$s in controller "
+"%2$sController"
+msgstr ""
+"Controller::paginate() - não pude achar o model %1$s no controller "
+"%2$sController"
+
+msgid "No id set for %s::view()"
+msgstr "Nenhuma id definido para %s::view()"
+
+msgid "Invalid id for %s::edit()"
+msgstr "Id inválido para %s::edit()"
+
+msgid "No id set for %s::delete()"
+msgstr "Nenhuma id definido para %s::delete()"
+
+msgid ""
+"[acl_base] The AclBase class constructor has been called, or the class "
+"was instantiated. This class must remain abstract. Please refer to the "
+"Cake docs for ACL configuration."
+msgstr ""
+"[acl_base] O construtor da classe AclBase foi chamado, ou a classe foi "
+"instanciada. Esta classe deve permanecer abstrata. Por favor verifique a "
+"configuração do ACL na documentação do Cake."
+
+msgid ""
+"Could not find AclComponent. Please include Acl in Controller::"
+"$components."
+msgstr ""
+"Não pude encontrar o AclComponent. Por favor inclua Acl em Controller::"
+"$components."
+
+msgid ""
+"Could not find $userModel. Please set AuthComponent::$userModel in "
+"beforeFilter()."
+msgstr ""
+"Não pude encontrar o $userModel. Por favor defina AuthComponent::"
+"$userModel em beforeFilter()."
+
+msgid "Login failed. Invalid username or password."
+msgstr "Falha no login. Nome de usuário ou senha inválidos."
+
+msgid ""
+"Could not find %s. Set AuthComponent::$object in beforeFilter() or pass a "
+"valid object"
+msgstr ""
+"Não pude encontrar %s. Defina AuthComponent::$object no beforeFilter() ou "
+"passe um objeto válido"
+
+msgid ""
+"Auth::isAuthorized() - $authorize is set to an incorrect value.  Allowed "
+"settings are: \"actions\", \"crud\", \"model\" or null."
+msgstr ""
+"Auth::isAuthorized() - $autorize está definido com um valor incorreto. "
+"Configurações permitidas são: \"actions\", \"crud\", \"model\" ou null."
+
+msgid "Auth::getModel() - Model is not set or could not be found"
+msgstr ""
+"Auth::getModel() - O Model não está definido ou não pôde ser encontrado"
+
+msgid ""
+"SecurityComponent::loginCredentials() - Server does not support digest "
+"authentication"
+msgstr ""
+"SecurityComponent::loginCredentials() - O servidor não suporta "
+"autenticação Digest"
+
+msgid "ConnectionManager::getDataSource - Non-existent data source %s"
+msgstr "ConnectionManager::getDataSource - Fonte de dados %s não existente"
+
+#, fuzzy
+msgid "ConnectionManager::getDataSource - Could not load class %s"
+msgstr "ConnectionManager::getDataSource - Fonte de dados %s não existente"
+
+#, fuzzy
+msgid ""
+"ConnectionManager::loadDataSource - Unable to import DataSource class %s"
+msgstr "ConnectionManager::getDataSource - Fonte de dados %s não existente"
+
+msgid "Invalid join model settings in %s"
+msgstr "Configurações de join inválidas em %s"
+
+#, fuzzy
+msgid "SQL Error:"
+msgstr "Erro:"
+
+msgid "Aff:%s Num:%s Took:%sms"
+msgstr "Afet:%s Num:%s Tempo:%sms"
+
+msgid "SQL Error in model %s:"
+msgstr "Erro SQL no model %s:"
+
+#, fuzzy
+msgid "FIXME: Can't parse field: "
+msgstr "CORRIJA-ME: Não é possível fazer o parser do campo: %s"
+
+msgid "Must specify table to operate on constraints"
+msgstr ""
+"Uma tabela deve ser especificada para operar em restrições (constraints)"
+
+msgid "DboOracle::constraint() accepts only enable, disable, or list"
+msgstr ""
+"DboOracle::constraint() aceita somente \"enable\", \"disable\", ou \"list"
+"\""
+
+msgid "Error in view %s, got: <blockquote>%s</blockquote>"
+msgstr "Erro na view %s: <blockquote>%s</blockquote>"
+
+msgid "Error in layout %s, got: <blockquote>%s</blockquote>"
+msgstr "Erro no layout %s: <blockquote>%s</blockquote>"
+
+msgid "If you want to customize this error message, create %s."
+msgstr "Se você quer customizar esta mensagem de erro, crie %s."
+
+#, fuzzy
+msgid "The behavior class <em>%s</em> can not be found or does not exist."
+msgstr "A classe helper <em>%s</em> não pode ser encontrada ou não existe."
+
+msgid "Create the class below in file: %s"
+msgstr "Crie a classe abaixo no arquivo: %s"
+
+#, fuzzy
+msgid "The Behavior file %s can not be found or does not exist."
+msgstr "O arquivo de helper %s não pode ser encontrado ou não existe."
+
+msgid "Create the class %s in file: %s"
+msgstr "Crie a classe %s no arquivo: %s"
+
+msgid "%s requires a database connection"
+msgstr "%s necessita de uma conexão ao banco de dados"
+
+msgid "Confirm you have created the file : %s."
+msgstr "Verifique que você criou o arquivo: %s"
+
+msgid "The helper class <em>%s</em> can not be found or does not exist."
+msgstr "A classe helper <em>%s</em> não pode ser encontrada ou não existe."
+
+msgid "The helper file %s can not be found or does not exist."
+msgstr "O arquivo de helper %s não pode ser encontrado ou não existe."
+
+msgid "<em>%s</em> could not be found."
+msgstr "<em>%s</em> não pôde ser encontrado."
+
+msgid "%s does not have get() implemented"
+msgstr "%s não tem o método get() implementado"
+
+msgid "%s does not have event() implemented"
+msgstr "%s não tem o método event() implementado"
+
+msgid "%s does not have domReady() implemented"
+msgstr "%s não tem o método domReady() implementado"
+
+msgid "%s does not have effect() implemented"
+msgstr "%s não tem o método effect() implementado"
+
+msgid "%s does not have request() implemented"
+msgstr "%s não tem o método request() implementado"
+
+msgid "%s does not have drag() implemented"
+msgstr "%s não tem o método drag() implementado"
+
+msgid "%s does not have drop() implemented"
+msgstr "%s não tem o método drop() implementado"
+
+msgid "%s does not have sortable() implemented"
+msgstr "%s não tem o método sortable() implementado"
+
+msgid "%s does not have slider() implemented"
+msgstr "%s não tem o método slider() implementado"
+
+msgid "%s does not have serializeForm() implemented"
+msgstr "%s não tem o método serializeForm() implementado"
+
+msgid "%d KB"
+msgstr "%d KB"
+
+msgid "%.2f MB"
+msgstr "%.2f MB"
+
+msgid "%.2f GB"
+msgstr "%.2f GB"
+
+msgid "%.2f TB"
+msgstr "%.2f TB"
+
+msgid "You can not write to a Session from the view"
+msgstr "Você não pode escrever em Session da view "
+
+msgid "Rename config/database.php.default to config/database.php"
+msgstr "Renomeie config/database.php.default para config/database.php"
+
+msgid ""
+"To change the content of this page, create: APP/views/pages/home.ctp.<br /"
+">\n"
+"To change its layout, create: APP/views/layouts/default.ctp.<br />\n"
+"You can also add some CSS styles for your pages at: APP/webroot/css."
+msgstr ""
+"Para alterar o conteúdo desta página, crie: APP/views/pages/home.ctp.<br /"
+">\n"
+"Para alterar seu layout, crie: APP/views/layouts/default.ctp.<br />\n"
+"Você também pode adicionar estilos CSS para suas páginas em: APP/webroot/"
+"css."
+
+msgid "CakePHP"
+msgstr "CakePHP"
+
+msgid "The Show"
+msgstr "The Show"
+
+msgid ""
+"The Show is a live and archived internet radio broadcast CakePHP-related "
+"topics and answer questions live via IRC, Skype, and telephone."
+msgstr ""
+"The Show é uma rádio online ao vivo ou arquivada discutindo tópicos "
+"relacionados ao CakePHP e respondemos perguntas feitas ao vivo via IRC, "
+"Skype e telefone."
+
+#, fuzzy
+msgid ""
+"For the Development of CakePHP (Tickets, Git browser, Roadmap, Changelogs)"
+msgstr ""
+"Para o desenvolvimento do CakePHP (Tickets, SVN browser, Roadmap, "
+"Changelogs)"
+
+msgid "Open Development for CakePHP"
+msgstr "Desenvolvimento Open para CakePHP"
+
+msgid "Book Store"
+msgstr "Book Store"
+
+msgid "Recommended Software Books"
+msgstr "Livros recomendados"
+
+msgid "CakePHP gear"
+msgstr "CakePHP gear"
+
+msgid "Plural Rule 1"
+msgstr "Plural Rule 1"
+
+msgid "Plural Rule 1 (from core)"
+msgstr "Plural Rule 1 (from core)"
+
+msgid "%d = 1"
+msgid_plural "%d = 0 or > 1"
+msgstr[0] "%d = 1"
+msgstr[1] "%d = 0 or > 1"
+
+msgid "%d = 1 (from core)"
+msgid_plural "%d = 0 or > 1 (from core)"
+msgstr[0] "%d = 1 (from core)"
+msgstr[1] "%d = 0 or > 1 (from core)"
+
+msgid "No Translation needed"
+msgstr "No Translation needed"
+
+msgid "this is a \"quoted string\""
+msgstr "this is a \"quoted string\""
+
+msgid "Le login doit contenir au moins 2 caractères"
+msgstr "Le login doit contenir au moins 2 caractères"
+
+#, fuzzy
+msgid "Group test %s cannot be found at %s"
+msgstr "O arquivo de layout %s não pode ser encontrado ou não existe."
+
+#, fuzzy
+msgid "Your tmp directory is "
+msgstr "Seu diretório tmp está com permissão de escrita"
+
+#, fuzzy
+msgid "writable."
+msgstr "%s sem permissão de escrita"
+
+#, fuzzy
+msgid "NOT writable."
+msgstr "%s sem permissão de escrita"
+
+msgid "Your cache is "
+msgstr "Seu cache é "
+
+#, fuzzy
+msgid " is being used to cache, to change this edit config/core.php "
+msgstr ""
+"O %s está sendo usado para cache. Para mudar as configurações edite APP/"
+"config/core.php"
+
+msgid "Cake"
+msgstr "Cake"
+
+msgid "Get your own CakePHP gear - Doughnate to Cake"
+msgstr ""
+"Compre seus acessórios do CakePHP. Camisetas, bonés, cuecas(!) e mais. "
+"Ajude o desenvolvimento do Cake!"
+
+msgid "CakePHP Manual"
+msgstr "CakePHP Manual"
+
+msgid "CakePHP Trac"
+msgstr "CakePHP Trac"
+
+msgid ""
+"For the Development of CakePHP (Tickets, SVN browser, Roadmap, Changelogs)"
+msgstr ""
+"Para o desenvolvimento do CakePHP (Tickets, SVN browser, Roadmap, "
+"Changelogs)"
+
+msgid "To identify the node and parent, use the row id."
+msgstr "Para identificar o nó e o pai, use a coluna id."
+
+msgid "command not found"
+msgstr "comando não encontrado"
+
+msgid "What is the name of the table (enter \"null\" to use NO table)?"
+msgstr ""
+"Qual o nome da tabela (digite \"null\" para NÃO usar tabela alguma)?"
+
+msgid "This is a self join. Use %s as the alias"
+msgstr "Isto é um self join. Use %s como alias"
+
+msgid ""
+"The selection you entered was invalid. Please enter a number between 1 "
+"and 4."
+msgstr ""
+"A seleção que você digitou é inválida. Por favor digite um número entre 1 "
+"e 4."
+
+msgid "Enter the class to test or (q)uit"
+msgstr "Digite a classe para testar ou 'q' para sair"
+
+msgid "Enter a test case or (q)uit"
+msgstr "Digite um test case ou 'q' para sair"
+
+msgid "Is this correct?"
+msgstr "Isto está correto?"
+
+msgid "Unable to load DataSource file %s.php"
+msgstr "Impossível carregar arquivo DataSource %s.php"
+
+msgid ""
+"(TextHelper::flay) Deprecated: the Flay library is no longer supported "
+"and will be removed in a future version."
+msgstr ""
+"(TextHelper::flay) Descontinuado: a biblioteca Flay não é mais suportada "
+"e será removida em uma versão futura."

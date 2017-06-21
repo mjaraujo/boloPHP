@@ -1,0 +1,25 @@
+h1. CakePHP em português
+
+Este repositório é um fork do "cake_ptbr" de jrbasso.
+
+Este Plugin serve para tradução do Cake para o português.
+Ele deve ser usado juntamente com tabelas do banco de dados em português.
+Se você usar nomenclatura de banco de dados em inglês, talvez seja interessante copiar apenas a pasta "Locale".
+
+Ele também inclui alguns templates para geração de código em português usando o bake.
+
+Caso você tenha dúvidas, elogios, reclamações, sugestões, etc., acesse o
+"Grupo de discussão do Php-MS":http://groups.google.com/group/phpms 
+ou o 
+"Grupo de discussão CakePHP-PT":http://groups.google.com/group/cakephp-pt
+e envie uma mensagem.
+
+Este plugin foi desenvolvido para a versão 2.4+ do CakePHP.
+
+
+h2. Instalação
+
+O conteúdo desse repositório deve ser colocado dentro de uma pasta chamada "CakePor",
+ dentro da pasta de plugins do CakePHP.
+
+
